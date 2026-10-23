@@ -72,8 +72,10 @@
 
 ---
 
-## 📄 ライセンス・お問い合わせ
+## 📄 解説記事・リンク集
 
-- **開発・運営**：SnapBolt 開発運営事務局（ぽろん）
-- **公式サイト**：[https://snapbolt-license.snapbolt.workers.dev/](https://snapbolt-license.snapbolt.workers.dev/)
+- **🌐 公式サイト（14日間Pro無料招待リンク）**：[https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK](https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK)
+- **📘 Qiita 技術解説記事**：[Windowsのスクショ・画面録画・OCRの不満を全部解消する超高速ツール「SnapBolt」を個人開発した話](https://qiita.com/poron2356/items/779cb91e363719e4b075)
+- **📙 Zenn 技術解説記事**：[Windowsのスクショ・画面録画・OCRの不満を全部解消する超高速ツール「SnapBolt」を個人開発した話](https://zenn.dev/poron7055/articles/0fc6238deb247f)
+- **📗 note 紹介記事**：[SnapBolt 開発ノート](https://note.com/poron7055/n/n2fd02eaeba36)
 - **特定商取引法に基づく表記 / プライバシーポリシー**：[公式サイト内表記](https://snapbolt-license.snapbolt.workers.dev/legal)
