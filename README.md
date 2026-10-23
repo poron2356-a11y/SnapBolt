@@ -75,7 +75,20 @@
 ## 📄 解説記事・リンク集
 
 - **🌐 公式サイト（14日間Pro無料招待リンク）**：[https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK](https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK)
+- **🍨 Scoop インストール**：`scoop bucket add snapbolt https://github.com/poron2356-a11y/scoop-snapbolt && scoop install snapbolt`
 - **📘 Qiita 技術解説記事**：[Windowsのスクショ・画面録画・OCRの不満を全部解消する超高速ツール「SnapBolt」を個人開発した話](https://qiita.com/poron2356/items/779cb91e363719e4b075)
 - **📙 Zenn 技術解説記事**：[Windowsのスクショ・画面録画・OCRの不満を全部解消する超高速ツール「SnapBolt」を個人開発した話](https://zenn.dev/poron7055/articles/0fc6238deb247f)
 - **📗 note 紹介記事**：[SnapBolt 開発ノート](https://note.com/poron7055/n/n2fd02eaeba36)
 - **特定商取引法に基づく表記 / プライバシーポリシー**：[公式サイト内表記](https://snapbolt-license.snapbolt.workers.dev/legal)
+
+---
+
+## 🌐 English Overview
+
+**SnapBolt** is an ultra-fast, 100% offline-capable native Windows 10/11 screenshot, screen recording, QR/OCR, and color picker utility:
+- **🎯 Auto Window & UI Element Snap + 3s Delayed Capture** for hover menus & tooltips (`PrintScreen`).
+- **✏️ 3-Second Annotation & Instant `Ctrl+V` Paste** (Mosaic, Red Box, Arrows, Step Badges, Highlighter) without saving temporary files.
+- **🎬 Built-in MP4 / GIF Screen Recording Studio** with timeline trim, 2x speed, and captions.
+- **📱 100% Offline QR Code / Barcode & OCR Text Reader** (`Ctrl + Shift + O`).
+- **🎨 1px Magnifier Screen Color Picker (`#HEX` / `RGB`)** (`C` key during capture).
+- **📥 Download**: [Official Website (English supported)](https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK?lang=en) | [GitHub Releases](https://github.com/poron2356-a11y/SnapBolt/releases/latest)
