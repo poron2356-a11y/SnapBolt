@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://forest.impress.co.jp/library/software/snapbolt/"><img src="https://img.shields.io/badge/Featured_on-窓の杜_(Mado_no_Mori)-10b981?style=for-the-badge" alt="Featured on 窓の杜"></a>
+  <a href="https://forest.watch.impress.co.jp/docs/digest/2150874.html"><img src="https://img.shields.io/badge/Featured_on-窓の杜_(Mado_no_Mori)-10b981?style=for-the-badge" alt="Featured on 窓の杜"></a>
   <a href="https://github.com/poron2356-a11y/SnapBolt/releases/latest"><img src="https://img.shields.io/badge/Version-v2.3.1-3b82f6?style=for-the-badge" alt="Version v2.3.1"></a>
   <a href="https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK?lang=en"><img src="https://img.shields.io/badge/Platform-Windows_10_%2F_11_(x64)-0ea5e9?style=for-the-badge" alt="Platform Windows 10/11"></a>
 </p>
@@ -52,7 +52,7 @@
 
 ## 🇯🇵 SnapBolt とは？（日本語ガイド）
 
-**SnapBolt（スナップボルト）** は、Windows 10 / 11 で毎日の手順書作成・バグ報告・開発業務を10倍速くするために設計された、**完全オフライン（外部送信ゼロ）・軽量ネイティブ設計** のオールインワン画面キャプチャ＆録画ユーティリティです（[**窓の杜 ライブラリ掲載ソフト**](https://forest.impress.co.jp/library/software/snapbolt/)）。
+**SnapBolt（スナップボルト）** は、Windows 10 / 11 で毎日の手順書作成・バグ報告・開発業務を10倍速くするために設計された、**完全オフライン（外部送信ゼロ）・軽量ネイティブ設計** のオールインワン画面キャプチャ＆録画ユーティリティです（[**窓の杜 掲載ソフト（2026年10月23日号）**](https://forest.watch.impress.co.jp/docs/digest/2150874.html)）。
 
 ### ✨ 主な機能（v2.3.1 最新版）
 
@@ -121,7 +121,7 @@ Windows 10 / 11 (64-bit) 対応・追加ランタイム不要ですぐに使い�
 
 ## 📝 解説記事・リンク集
 
-- **🏆 窓の杜（Mado-no-Mori）ライブラリ掲載ページ**：[https://forest.impress.co.jp/library/software/snapbolt/](https://forest.impress.co.jp/library/software/snapbolt/)
+- **🏆 窓の杜（Mado-no-Mori）掲載記事（2026/10/23）**：[https://forest.watch.impress.co.jp/docs/digest/2150874.html](https://forest.watch.impress.co.jp/docs/digest/2150874.html)
 - **🌐 公式サイト（14日間Pro招待リンク）**：[https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK](https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK)
 - **📘 Qiita 技術解説記事**：[Windowsのスクショ・画面録画・OCRの不満を全部潰す超高速ツール「SnapBolt」を個人開発した話](https://qiita.com/poron2356/items/779cb91e363719e4b075)
 - **📗 Zenn 技術解説記事**：[Windowsのスクショ・画面録画・OCRの不満を全部潰す超高速ツール「SnapBolt」を個人開発した話](https://zenn.dev/poron7055/articles/0fc6238deb247f)
