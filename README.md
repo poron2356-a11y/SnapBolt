@@ -44,9 +44,9 @@
   - **Every 1 paid referral** = Claim a **¥200 Amazon Gift Card** directly inside the app (`🎁 Ambassador & Affiliate Program`).
 
 ### 📚 English Engineering Deep-Dives (DEV.to)
-- [I Replaced Snipping Tool + ShareX + ScreenToGif + PowerToys with One Native C# App (SnapBolt)](https://dev.to/poron2356a11y/i-replaced-snipping-tool-sharex-screentogif-powertoys-with-one-native-c-app-snapbolt-1988)
-- [How I Built a 100% Offline QR Code, Barcode & OCR Reader for Windows in C# / WPF](https://dev.to/poron2356a11y/how-i-built-a-100-offline-qr-code-barcode-ocr-reader-for-windows-in-c-wpf-26cd)
-- [Building a Lightweight MP4/GIF Screen Recorder + Video Trim Studio in Pure C# / WPF](https://dev.to/poron2356a11y/building-a-lightweight-mp4gif-screen-recorder-video-trim-studio-in-pure-c-wpf-1k8n)
+- [I built "CleanShot X for Windows" — Auto Window Snap, 1-Click Beautifier Frame, MP4/GIF Studio & 100% Offline QR/OCR](https://dev.to/snapbolt_win/i-built-cleanshot-x-for-windows-auto-window-snap-1-click-beautifier-frame-mp4gif-studio--15je)
+- [How to Read QR Codes & Extract Uncopyable Text on Windows 10/11 (100% Offline, Zero Cloud Uploads)](https://dev.to/snapbolt_win/how-to-read-qr-codes-extract-uncopyable-text-on-windows-1011-100-offline-zero-cloud-uploads-3kb5)
+- [How to Capture Disappearing Hover Menus & Create CleanShot-Style Screenshots/GIFs on Windows](https://dev.to/snapbolt_win/how-to-capture-disappearing-hover-menus-create-cleanshot-style-screenshotsgifs-on-windows-5g24)
 
 ---
 
