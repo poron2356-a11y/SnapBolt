@@ -5,17 +5,20 @@
 </p>
 
 <p align="center">
+  <a href="https://apps.microsoft.com/detail/9MTBJHKWKM43?hl=ja-jp&gl=JP"><img src="https://img.shields.io/badge/Microsoft_Store-Official_Certified_App-0078D4?style=for-the-badge&logo=microsoft" alt="Get it from Microsoft Store"></a>
   <a href="https://forest.watch.impress.co.jp/docs/digest/2150874.html"><img src="https://img.shields.io/badge/Featured_on-窓の杜_(Mado_no_Mori)-10b981?style=for-the-badge" alt="Featured on 窓の杜"></a>
-  <a href="https://github.com/poron2356-a11y/SnapBolt/releases/latest"><img src="https://img.shields.io/badge/Version-v2.3.1-3b82f6?style=for-the-badge" alt="Version v2.3.1"></a>
+  <a href="https://github.com/poron2356-a11y/SnapBolt/releases/latest"><img src="https://img.shields.io/badge/Version-v2.4.0-3b82f6?style=for-the-badge" alt="Version v2.4.0"></a>
   <a href="https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK?lang=en"><img src="https://img.shields.io/badge/Platform-Windows_10_%2F_11_(x64)-0ea5e9?style=for-the-badge" alt="Platform Windows 10/11"></a>
 </p>
 
 <p align="center">
-  🌐 <a href="https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK?lang=en"><b>Official Website (English — 14-Day Full Pro Bonus)</b></a>
+  🏪 <a href="https://apps.microsoft.com/detail/9MTBJHKWKM43?hl=ja-jp&gl=JP"><b>Microsoft Store から無料入手（推奨・保護画面なし）</b></a>
   &nbsp;|&nbsp;
-  🇯🇵 <a href="https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK"><b>公式サイト・ダウンロード（紹介特典：全機能14日間無料）</b></a>
+  🇯🇵 <a href="https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK"><b>公式サイト（14日間Pro無料特典つき）</b></a>
   &nbsp;|&nbsp;
-  📦 <a href="https://github.com/poron2356-a11y/SnapBolt/releases/latest"><b>GitHub Releases (Installer / Portable ZIP)</b></a>
+  🌐 <a href="https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK?lang=en"><b>Official Website (English)</b></a>
+  &nbsp;|&nbsp;
+  📦 <a href="https://github.com/poron2356-a11y/SnapBolt/releases/latest"><b>GitHub Releases</b></a>
 </p>
 
 ---
@@ -97,15 +100,23 @@
 
 Windows 10 / 11 (64-bit) 対応・追加ランタイム不要ですぐに使い始められます。
 
-- **🌐 公式サイトからダウンロード（おすすめ・14日間Pro全機能特典つき）**  
+- **🏪 Microsoft Store からワンクリック導入（推奨・電子署名済みで警告画面なし）**  
+  👉 **[Microsoft Store 公式ページを開く](https://apps.microsoft.com/detail/9MTBJHKWKM43?hl=ja-jp&gl=JP)** （または Windows ターミナルで `winget install 9MTBJHKWKM43`）
+  > Microsoft 公式の電子署名が付与された MSIX パッケージのため、ブラウザの警告や Windows SmartScreen の青い保護画面が一切出ず、自動アップデートにも対応しています。
+
+- **🌐 公式サイトからダウンロード（14日間Pro全機能特典つき）**  
   👉 **[日本語ページ](https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK)** | **[English Page](https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK?lang=en)**
   > 紹介コード **`8Y9PHK`** が自動適用され、通常24時間のPro全機能体験期間が **14日間** に延長されます（期間終了後も、基本のスクショ撮影・注釈・保存・10秒録画・色スポイトはずっと完全無料で使い続けられます）。
 
 - **📦 GitHub Releases から直接ダウンロード**  
   👉 **[Releases ページ](https://github.com/poron2356-a11y/SnapBolt/releases/latest)** からインストーラー版またはポータブルZIP版を入手できます。
 
-- **💻 Scoop でインストール**  
+- **💻 Winget / Scoop でインストール**  
   ```powershell
+  # Microsoft Store 公式パッケージ (Winget)
+  winget install 9MTBJHKWKM43
+
+  # または Scoop
   scoop bucket add snapbolt https://github.com/poron2356-a11y/scoop-snapbolt
   scoop install snapbolt
   ```
