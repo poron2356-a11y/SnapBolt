@@ -40,11 +40,13 @@
 5. **🎨 1px Magnifier Screen Color Picker (`C` key)**
    - Inspect exact pixel coordinates with a live magnifier loupe and copy `#RRGGBB` HEX codes in a single click.
 
-### 🎁 Ambassador & Affiliate Program (Built into the App!)
+### 🎁 Ambassador & Affiliate Program (Built into the App — 40% Revenue Share!)
+- **Partner & Reviewer Details**: [**https://snapbolt-license.snapbolt.workers.dev/en/affiliate**](https://snapbolt-license.snapbolt.workers.dev/en/affiliate)
 - **Free Users**: Invite **3 friends** via your personal link (`https://snapbolt-license.snapbolt.workers.dev/r/YOUR_CODE`) to unlock **Lifetime Pro for free ($0)**!
 - **Ongoing Rewards**:
   - **Every 3 free referrals** = Earn **1 Giftable Lifetime Pro License Key** to share with teammates or followers.
-  - **Every 1 paid referral** = Claim a **¥200 Amazon Gift Card** directly inside the app (`🎁 Ambassador & Affiliate Program`).
+  - **Every 1 paid referral** = Claim a **¥200 Amazon Gift Card (40% commission)** directly inside the app (`🎁 Ambassador & Affiliate Program`).
+  - **Tech Bloggers / YouTubers / Creators**: Request a complimentary **Reviewer Lifetime Pro Key** anytime from the [Partner Page](https://snapbolt-license.snapbolt.workers.dev/en/affiliate).
 
 ### 📚 English Engineering Deep-Dives (DEV.to)
 - [Windows 11 Snipping Tool Is Too Slow: Here's a 0.1s Alternative with Instant Blur, GIF Studio & Offline OCR](https://dev.to/snapbolt_win/windows-11-snipping-tool-is-too-slow-heres-a-01s-alternative-with-instant-blur-gif-studio--3i13)
@@ -78,9 +80,10 @@
 5. **🎨 1pxルーペ拡大鏡つき 画面カラーピッカー（`#HEX` / `RGB` 色スポイト）**
    - キャプチャ中に `C` キー（または上部バーの「🎨 色スポイト」）で、カーソル先端1ピクセルのカラーコード（`#RRGGBB`）を即座にクリップボードへコピーします。
 
-6. **🎁 継続アンバサダー＆アフィリエイト特典（アプリ内蔵）**
+6. **🎁 継続アンバサダー＆アフィリエイト特典（初期費用0円・審査不要・40%還元）**
+   - **紹介パートナー詳細・レビュアー様向けProキー無償進呈窓口**：[**https://snapbolt-license.snapbolt.workers.dev/affiliate**](https://snapbolt-license.snapbolt.workers.dev/affiliate)
    - **無料ユーザー**：友達3人紹介で **Pro永久ライセンス（¥500相当）が無料解禁**！
-   - **継続紹介特典**：さらに **3人紹介ごとに「プレゼント用Pro永久キー」を1個自動発行**、紹介相手がProを購入すると **1件につきAmazonギフト券 ¥200分** をアプリ内からそのまま申請・受取できます。
+   - **継続紹介特典**：さらに **3人紹介ごとに「プレゼント用Pro永久キー」を1個自動発行**、紹介相手がProを購入すると **1件につきAmazonギフト券 ¥200分（売上の40%）** をアプリ内からそのまま申請・受取できます。
 
 ---
 
