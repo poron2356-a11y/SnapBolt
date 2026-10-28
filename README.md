@@ -27,7 +27,7 @@
 
 **SnapBolt** is a native C# / WPF all-in-one screen capture & productivity utility for Windows 10 / 11 — designed to start in **0.1 seconds** and run **100% offline** with zero cloud uploads.
 
-### ✨ Key Features (v2.3.1 Latest)
+### ✨ Key Features (v2.4.0 Latest)
 1. **🎯 Auto Window & UI Element Snap + 3s Delayed Capture (`PrintScreen`)**
    - Hover over any window or UI element to auto-snap its exact bounds, or use the **⏱️ 3s Delay Capture** button to freeze disappearing hover menus and right-click context menus.
 2. **✏️ 3-Second Annotations & Instant `Ctrl + V` Paste**
@@ -47,6 +47,7 @@
   - **Every 1 paid referral** = Claim a **¥200 Amazon Gift Card** directly inside the app (`🎁 Ambassador & Affiliate Program`).
 
 ### 📚 English Engineering Deep-Dives (DEV.to)
+- [Windows 11 Snipping Tool Is Too Slow: Here's a 0.1s Alternative with Instant Blur, GIF Studio & Offline OCR](https://dev.to/snapbolt_win/windows-11-snipping-tool-is-too-slow-heres-a-01s-alternative-with-instant-blur-gif-studio--3i13)
 - [I built "CleanShot X for Windows" — Auto Window Snap, 1-Click Beautifier Frame, MP4/GIF Studio & 100% Offline QR/OCR](https://dev.to/snapbolt_win/i-built-cleanshot-x-for-windows-auto-window-snap-1-click-beautifier-frame-mp4gif-studio--15je)
 - [How to Read QR Codes & Extract Uncopyable Text on Windows 10/11 (100% Offline, Zero Cloud Uploads)](https://dev.to/snapbolt_win/how-to-read-qr-codes-extract-uncopyable-text-on-windows-1011-100-offline-zero-cloud-uploads-3kb5)
 - [How to Capture Disappearing Hover Menus & Create CleanShot-Style Screenshots/GIFs on Windows](https://dev.to/snapbolt_win/how-to-capture-disappearing-hover-menus-create-cleanshot-style-screenshotsgifs-on-windows-5g24)
@@ -57,7 +58,7 @@
 
 **SnapBolt（スナップボルト）** は、Windows 10 / 11 で毎日の手順書作成・バグ報告・開発業務を10倍速くするために設計された、**完全オフライン（外部送信ゼロ）・軽量ネイティブ設計** のオールインワン画面キャプチャ＆録画ユーティリティです（[**窓の杜 掲載ソフト（2026年10月23日号）**](https://forest.watch.impress.co.jp/docs/digest/2150874.html)）。
 
-### ✨ 主な機能（v2.3.1 最新版）
+### ✨ 主な機能（v2.4.0 最新版）
 
 1. **🎯 ウィンドウ・UI要素の自動枠合わせ（オートスナップ）**
    - カーソルを乗せるだけで対象ウィンドウに青い枠がピタッと自動吸着し、クリック1回で綺麗に切り抜けます。
@@ -134,7 +135,11 @@ Windows 10 / 11 (64-bit) 対応・追加ランタイム不要ですぐに使い�
 
 - **🏆 窓の杜（Mado-no-Mori）掲載記事（2026/10/23）**：[https://forest.watch.impress.co.jp/docs/digest/2150874.html](https://forest.watch.impress.co.jp/docs/digest/2150874.html)
 - **🌐 公式サイト（14日間Pro招待リンク）**：[https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK](https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK)
-- **📘 Qiita 技術解説記事**：[Windowsのスクショ・画面録画・OCRの不満を全部潰す超高速ツール「SnapBolt」を個人開発した話](https://qiita.com/poron2356/items/779cb91e363719e4b075)
+- **📘 Qiita 技術解説・活用記事**：
+  - [Windows 11の「Snipping Toolが遅い・モザイクが面倒」を解決！0.1秒起動＆その場でモザイク・OCR・GIF録画できる無料ツール【Microsoft Store公式】](https://qiita.com/poron2356/items/b5a9e095c337f83e4445)
+  - [Windowsのスクショ・画面録画・OCRの不満を全部潰す超高速ツール「SnapBolt」を個人開発した話](https://qiita.com/poron2356/items/779cb91e363719e4b075)
+  - [WindowsでPC画面上のQRコードや選択できない文字を1秒で読み取る方法【スマホ不要・完全オフライン】](https://qiita.com/poron2356/items/ed890d5d49e8f544d01e)
+  - [Windowsで「消えるホバーメニュー」をスクショして、3秒でSNS・記事向け(16:9)に整える方法](https://qiita.com/poron2356/items/b2b509c1802d1f8d1c32)
 - **📗 Zenn 技術解説記事**：[Windowsのスクショ・画面録画・OCRの不満を全部潰す超高速ツール「SnapBolt」を個人開発した話](https://zenn.dev/poron7055/articles/0fc6238deb247f)
 - **📓 note 紹介記事**：[SnapBolt 開発ノート](https://note.com/poron7055/n/n2fd02eaeba36)
 - **特定商取引法に基づく表記 / プライバシーポリシー**：[公式サイト表記](https://snapbolt-license.snapbolt.workers.dev/legal)
