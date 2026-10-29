@@ -1,22 +1,22 @@
 # ⚡ SnapBolt — Windows 10/11 Ultra-Fast Screenshot, Screen Recorder, Offline QR/OCR & Color Picker
 
 <p align="center">
-  <img src="https://snapbolt-license.snapbolt.workers.dev/assets/ogp.png" alt="SnapBolt" width="760">
+  <img src="https://snapbolt.dev/assets/ogp.png" alt="SnapBolt" width="760">
 </p>
 
 <p align="center">
   <a href="https://apps.microsoft.com/detail/9MTBJHKWKM43?hl=ja-jp&gl=JP"><img src="https://img.shields.io/badge/Microsoft_Store-Official_Certified_App-0078D4?style=for-the-badge&logo=microsoft" alt="Get it from Microsoft Store"></a>
   <a href="https://forest.watch.impress.co.jp/docs/digest/2150874.html"><img src="https://img.shields.io/badge/Featured_on-窓の杜_(Mado_no_Mori)-10b981?style=for-the-badge" alt="Featured on 窓の杜"></a>
   <a href="https://github.com/poron2356-a11y/SnapBolt/releases/latest"><img src="https://img.shields.io/badge/Version-v2.4.0-3b82f6?style=for-the-badge" alt="Version v2.4.0"></a>
-  <a href="https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK?lang=en"><img src="https://img.shields.io/badge/Platform-Windows_10_%2F_11_(x64)-0ea5e9?style=for-the-badge" alt="Platform Windows 10/11"></a>
+  <a href="https://snapbolt.dev/r/8Y9PHK?lang=en"><img src="https://img.shields.io/badge/Platform-Windows_10_%2F_11_(x64)-0ea5e9?style=for-the-badge" alt="Platform Windows 10/11"></a>
 </p>
 
 <p align="center">
   🏪 <a href="https://apps.microsoft.com/detail/9MTBJHKWKM43?hl=ja-jp&gl=JP"><b>Microsoft Store から無料入手（推奨・保護画面なし）</b></a>
   &nbsp;|&nbsp;
-  🇯🇵 <a href="https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK"><b>公式サイト（14日間Pro無料特典つき）</b></a>
+  🇯🇵 <a href="https://snapbolt.dev/r/8Y9PHK"><b>公式サイト（14日間Pro無料特典つき）</b></a>
   &nbsp;|&nbsp;
-  🌐 <a href="https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK?lang=en"><b>Official Website (English)</b></a>
+  🌐 <a href="https://snapbolt.dev/r/8Y9PHK?lang=en"><b>Official Website (English)</b></a>
   &nbsp;|&nbsp;
   📦 <a href="https://github.com/poron2356-a11y/SnapBolt/releases/latest"><b>GitHub Releases</b></a>
 </p>
@@ -41,12 +41,12 @@
    - Inspect exact pixel coordinates with a live magnifier loupe and copy `#RRGGBB` HEX codes in a single click.
 
 ### 🎁 Ambassador & Affiliate Program (Built into the App — 40% Revenue Share!)
-- **Partner & Reviewer Details**: [**https://snapbolt-license.snapbolt.workers.dev/en/affiliate**](https://snapbolt-license.snapbolt.workers.dev/en/affiliate)
-- **Free Users**: Invite **3 friends** via your personal link (`https://snapbolt-license.snapbolt.workers.dev/r/YOUR_CODE`) to unlock **Lifetime Pro for free ($0)**!
+- **Partner & Reviewer Details**: [**https://snapbolt.dev/en/affiliate**](https://snapbolt.dev/en/affiliate)
+- **Free Users**: Invite **3 friends** via your personal link (`https://snapbolt.dev/r/YOUR_CODE`) to unlock **Lifetime Pro for free ($0)**!
 - **Ongoing Rewards**:
   - **Every 3 free referrals** = Earn **1 Giftable Lifetime Pro License Key** to share with teammates or followers.
   - **Every 1 paid referral** = Claim a **¥200 Amazon Gift Card (40% commission)** directly inside the app (`🎁 Ambassador & Affiliate Program`).
-  - **Tech Bloggers / YouTubers / Creators**: Request a complimentary **Reviewer Lifetime Pro Key** anytime from the [Partner Page](https://snapbolt-license.snapbolt.workers.dev/en/affiliate).
+  - **Tech Bloggers / YouTubers / Creators**: Request a complimentary **Reviewer Lifetime Pro Key** anytime from the [Partner Page](https://snapbolt.dev/en/affiliate).
 
 ### 📚 English Engineering Deep-Dives (DEV.to)
 - [Windows 11 Snipping Tool Is Too Slow: Here's a 0.1s Alternative with Instant Blur, GIF Studio & Offline OCR](https://dev.to/snapbolt_win/windows-11-snipping-tool-is-too-slow-heres-a-01s-alternative-with-instant-blur-gif-studio--3i13)
@@ -81,7 +81,7 @@
    - キャプチャ中に `C` キー（または上部バーの「🎨 色スポイト」）で、カーソル先端1ピクセルのカラーコード（`#RRGGBB`）を即座にクリップボードへコピーします。
 
 6. **🎁 継続アンバサダー＆アフィリエイト特典（初期費用0円・審査不要・40%還元）**
-   - **紹介パートナー詳細・レビュアー様向けProキー無償進呈窓口**：[**https://snapbolt-license.snapbolt.workers.dev/affiliate**](https://snapbolt-license.snapbolt.workers.dev/affiliate)
+   - **紹介パートナー詳細・レビュアー様向けProキー無償進呈窓口**：[**https://snapbolt.dev/affiliate**](https://snapbolt.dev/affiliate)
    - **無料ユーザー**：友達3人紹介で **Pro永久ライセンス（¥500相当）が無料解禁**！
    - **継続紹介特典**：さらに **3人紹介ごとに「プレゼント用Pro永久キー」を1個自動発行**、紹介相手がProを購入すると **1件につきAmazonギフト券 ¥200分（売上の40%）** をアプリ内からそのまま申請・受取できます。
 
@@ -90,13 +90,13 @@
 ## 📸 スクリーンショット / Screenshots
 
 ### ① ウィンドウ自動枠合わせキャプチャ / Auto Window Snap
-![ウィンドウ自動枠合わせ](https://snapbolt-license.snapbolt.workers.dev/assets/shot_snap.png)
+![ウィンドウ自動枠合わせ](https://snapbolt.dev/assets/shot_snap.png)
 
 ### ② 3秒アノテーション編集 ＆ そのまま `Ctrl + V` 貼り付け / 3-Second Annotations
-![エディタ](https://snapbolt-license.snapbolt.workers.dev/assets/shot_editor.png)
+![エディタ](https://snapbolt.dev/assets/shot_editor.png)
 
 ### ③ MP4/GIF 画面録画スタジオ ＆ 完全オフライン QR / OCR
-![画面録画スタジオ＆OCR](https://snapbolt-license.snapbolt.workers.dev/assets/shot_record_ocr.png)
+![画面録画スタジオ＆OCR](https://snapbolt.dev/assets/shot_record_ocr.png)
 
 ---
 
@@ -109,7 +109,7 @@ Windows 10 / 11 (64-bit) 対応・追加ランタイム不要ですぐに使い�
   > Microsoft 公式の電子署名が付与された MSIX パッケージのため、ブラウザの警告や Windows SmartScreen の青い保護画面が一切出ず、自動アップデートにも対応しています。
 
 - **🌐 公式サイトからダウンロード（14日間Pro全機能特典つき）**  
-  👉 **[日本語ページ](https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK)** | **[English Page](https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK?lang=en)**
+  👉 **[日本語ページ](https://snapbolt.dev/r/8Y9PHK)** | **[English Page](https://snapbolt.dev/r/8Y9PHK?lang=en)**
   > 紹介コード **`8Y9PHK`** が自動適用され、通常24時間のPro全機能体験期間が **14日間** に延長されます（期間終了後も、基本のスクショ撮影・注釈・保存・10秒録画・色スポイトはずっと完全無料で使い続けられます）。
 
 - **📦 GitHub Releases から直接ダウンロード**  
@@ -137,7 +137,7 @@ Windows 10 / 11 (64-bit) 対応・追加ランタイム不要ですぐに使い�
 ## 📝 解説記事・リンク集
 
 - **🏆 窓の杜（Mado-no-Mori）掲載記事（2026/10/23）**：[https://forest.watch.impress.co.jp/docs/digest/2150874.html](https://forest.watch.impress.co.jp/docs/digest/2150874.html)
-- **🌐 公式サイト（14日間Pro招待リンク）**：[https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK](https://snapbolt-license.snapbolt.workers.dev/r/8Y9PHK)
+- **🌐 公式サイト（14日間Pro招待リンク）**：[https://snapbolt.dev/r/8Y9PHK](https://snapbolt.dev/r/8Y9PHK)
 - **📘 Qiita 技術解説・活用記事**：
   - [Windows 11の「Snipping Toolが遅い・モザイクが面倒」を解決！0.1秒起動＆その場でモザイク・OCR・GIF録画できる無料ツール【Microsoft Store公式】](https://qiita.com/poron2356/items/b5a9e095c337f83e4445)
   - [Windowsのスクショ・画面録画・OCRの不満を全部潰す超高速ツール「SnapBolt」を個人開発した話](https://qiita.com/poron2356/items/779cb91e363719e4b075)
@@ -145,4 +145,4 @@ Windows 10 / 11 (64-bit) 対応・追加ランタイム不要ですぐに使い�
   - [Windowsで「消えるホバーメニュー」をスクショして、3秒でSNS・記事向け(16:9)に整える方法](https://qiita.com/poron2356/items/b2b509c1802d1f8d1c32)
 - **📗 Zenn 技術解説記事**：[Windowsのスクショ・画面録画・OCRの不満を全部潰す超高速ツール「SnapBolt」を個人開発した話](https://zenn.dev/poron7055/articles/0fc6238deb247f)
 - **📓 note 紹介記事**：[SnapBolt 開発ノート](https://note.com/poron7055/n/n2fd02eaeba36)
-- **特定商取引法に基づく表記 / プライバシーポリシー**：[公式サイト表記](https://snapbolt-license.snapbolt.workers.dev/legal)
+- **特定商取引法に基づく表記 / プライバシーポリシー**：[公式サイト表記](https://snapbolt.dev/legal)
