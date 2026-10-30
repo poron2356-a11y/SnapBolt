@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://apps.microsoft.com/detail/9MTBJHKWKM43?hl=ja-jp&gl=JP"><img src="https://img.shields.io/badge/Microsoft_Store-Official_Certified_App-0078D4?style=for-the-badge&logo=microsoft" alt="Get it from Microsoft Store"></a>
   <a href="https://forest.watch.impress.co.jp/docs/digest/2150874.html"><img src="https://img.shields.io/badge/Featured_on-窓の杜_(Mado_no_Mori)-10b981?style=for-the-badge" alt="Featured on 窓の杜"></a>
-  <a href="https://github.com/poron2356-a11y/SnapBolt/releases/latest"><img src="https://img.shields.io/badge/Version-v2.4.0-3b82f6?style=for-the-badge" alt="Version v2.4.0"></a>
+  <a href="https://github.com/poron2356-a11y/SnapBolt/releases/latest"><img src="https://img.shields.io/badge/Version-v2.4.1-3b82f6?style=for-the-badge" alt="Version v2.4.1"></a>
   <a href="https://snapbolt.dev/r/8Y9PHK?lang=en"><img src="https://img.shields.io/badge/Platform-Windows_10_%2F_11_(x64)-0ea5e9?style=for-the-badge" alt="Platform Windows 10/11"></a>
 </p>
 
@@ -27,7 +27,7 @@
 
 **SnapBolt** is a native C# / WPF all-in-one screen capture & productivity utility for Windows 10 / 11 — designed to start in **0.1 seconds** and run **100% offline** with zero cloud uploads.
 
-### ✨ Key Features (v2.4.0 Latest)
+### ✨ Key Features (v2.4.1 Latest)
 1. **🎯 Auto Window & UI Element Snap + 3s Delayed Capture (`PrintScreen`)**
    - Hover over any window or UI element to auto-snap its exact bounds, or use the **⏱️ 3s Delay Capture** button to freeze disappearing hover menus and right-click context menus.
 2. **✏️ 3-Second Annotations & Instant `Ctrl + V` Paste**
@@ -60,7 +60,7 @@
 
 **SnapBolt（スナップボルト）** は、Windows 10 / 11 で毎日の手順書作成・バグ報告・開発業務を10倍速くするために設計された、**完全オフライン（外部送信ゼロ）・軽量ネイティブ設計** のオールインワン画面キャプチャ＆録画ユーティリティです（[**窓の杜 掲載ソフト（2026年10月23日号）**](https://forest.watch.impress.co.jp/docs/digest/2150874.html)）。
 
-### ✨ 主な機能（v2.4.0 最新版）
+### ✨ 主な機能（v2.4.1 最新版）
 
 1. **🎯 ウィンドウ・UI要素の自動枠合わせ（オートスナップ）**
    - カーソルを乗せるだけで対象ウィンドウに青い枠がピタッと自動吸着し、クリック1回で綺麗に切り抜けます。
@@ -110,7 +110,7 @@ Windows 10 / 11 (64-bit) 対応・追加ランタイム不要ですぐに使い�
 
 - **🌐 公式サイトからダウンロード（14日間Pro全機能特典つき）**  
   👉 **[日本語ページ](https://snapbolt.dev/r/8Y9PHK)** | **[English Page](https://snapbolt.dev/en/r/8Y9PHK)** | **[💎 Global Lifetime Pro ($14.99 USD on Gumroad)](https://poron1.gumroad.com/l/snapbolt)**
-  > 紹介コード **`8Y9PHK`** が自動適用され、通常24時間のPro全機能体験期間が **14日間** に延長されます（期間終了後も、基本のスクショ撮影・注釈・保存・10秒録画・色スポイトはずっと完全無料で使い続けられます）。
+  > 紹介コード **`8Y9PHK`** が自動適用され、通常7日間のPro全機能体験期間が **14日間** に延長されます（期間終了後も、基本のスクショ撮影・注釈・保存・10秒録画・色スポイトはずっと完全無料で使い続けられます）。
 
 - **📦 GitHub Releases から直接ダウンロード**  
   👉 **[Releases ページ](https://github.com/poron2356-a11y/SnapBolt/releases/latest)** からインストーラー版またはポータブルZIP版を入手できます。
