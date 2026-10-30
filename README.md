@@ -109,7 +109,7 @@ Windows 10 / 11 (64-bit) 対応・追加ランタイム不要ですぐに使い�
   > Microsoft 公式の電子署名が付与された MSIX パッケージのため、ブラウザの警告や Windows SmartScreen の青い保護画面が一切出ず、自動アップデートにも対応しています。
 
 - **🌐 公式サイトからダウンロード（14日間Pro全機能特典つき）**  
-  👉 **[日本語ページ](https://snapbolt.dev/r/8Y9PHK)** | **[English Page](https://snapbolt.dev/r/8Y9PHK?lang=en)**
+  👉 **[日本語ページ](https://snapbolt.dev/r/8Y9PHK)** | **[English Page](https://snapbolt.dev/en/r/8Y9PHK)** | **[💎 Global Lifetime Pro ($14.99 USD on Gumroad)](https://poron1.gumroad.com/l/snapbolt)**
   > 紹介コード **`8Y9PHK`** が自動適用され、通常24時間のPro全機能体験期間が **14日間** に延長されます（期間終了後も、基本のスクショ撮影・注釈・保存・10秒録画・色スポイトはずっと完全無料で使い続けられます）。
 
 - **📦 GitHub Releases から直接ダウンロード**  
@@ -139,10 +139,14 @@ Windows 10 / 11 (64-bit) 対応・追加ランタイム不要ですぐに使い�
 - **🏆 窓の杜（Mado-no-Mori）掲載記事（2026/10/23）**：[https://forest.watch.impress.co.jp/docs/digest/2150874.html](https://forest.watch.impress.co.jp/docs/digest/2150874.html)
 - **🌐 公式サイト（14日間Pro招待リンク）**：[https://snapbolt.dev/r/8Y9PHK](https://snapbolt.dev/r/8Y9PHK)
 - **📘 Qiita 技術解説・活用記事**：
-  - [Windows 11の「Snipping Toolが遅い・モザイクが面倒」を解決！0.1秒起動＆その場でモザイク・OCR・GIF録画できる無料ツール【Microsoft Store公式】](https://qiita.com/poron2356/items/b5a9e095c337f83e4445)
-  - [Windowsのスクショ・画面録画・OCRの不満を全部潰す超高速ツール「SnapBolt」を個人開発した話](https://qiita.com/poron2356/items/779cb91e363719e4b075)
+  - [【個人開発】「撮る・3秒でモザイク編集・そのままCtrl+Vで貼る」画面録画・オフラインOCR全部入りのWindowsスクショアプリ『SnapBolt』を作った](https://qiita.com/poron2356/items/779cb91e363719e4b075)
   - [WindowsでPC画面上のQRコードや選択できない文字を1秒で読み取る方法【スマホ不要・完全オフライン】](https://qiita.com/poron2356/items/ed890d5d49e8f544d01e)
   - [Windowsで「消えるホバーメニュー」をスクショして、3秒でSNS・記事向け(16:9)に整える方法](https://qiita.com/poron2356/items/b2b509c1802d1f8d1c32)
 - **📗 Zenn 技術解説記事**：[Windowsのスクショ・画面録画・OCRの不満を全部潰す超高速ツール「SnapBolt」を個人開発した話](https://zenn.dev/poron7055/articles/0fc6238deb247f)
-- **📓 note 紹介記事**：[SnapBolt 開発ノート](https://note.com/poron7055/n/n2fd02eaeba36)
+- **📓 note 紹介記事**：[毎日の「スクショ撮って編集して貼る」が面倒すぎたので、AIと一緒に全部入りの最強Windowsアプリ『SnapBolt』を自作して公開した話](https://note.com/poron7055/n/n2fd02eaeba36)
+- **🌐 DEV.to English Guides & Tutorials**：
+  - [Windows 11 Snipping Tool Is Too Slow: Here's a 0.1s Alternative with Instant Blur, GIF Studio & Offline OCR](https://dev.to/snapbolt_win/windows-11-snipping-tool-is-too-slow-heres-a-01s-alternative-with-instant-blur-gif-studio--3i13)
+  - [I built "CleanShot X for Windows" — Auto Window Snap, 1-Click Beautifier Frame, MP4/GIF Studio & 100% Offline QR/OCR](https://dev.to/snapbolt_win/i-built-cleanshot-x-for-windows-auto-window-snap-1-click-beautifier-frame-mp4gif-studio--15je)
+  - [How to Capture Disappearing Hover Menus & Create CleanShot-Style Screenshots/GIFs on Windows](https://dev.to/snapbolt_win/how-to-capture-disappearing-hover-menus-create-cleanshot-style-screenshotsgifs-on-windows-5g24)
+  - [How to Read QR Codes & Extract Uncopyable Text on Windows 10/11 (100% Offline, Zero Cloud Uploads)](https://dev.to/snapbolt_win/how-to-read-qr-codes-extract-uncopyable-text-on-windows-1011-100-offline-zero-cloud-uploads-3kb5)
 - **特定商取引法に基づく表記 / プライバシーポリシー**：[公式サイト表記](https://snapbolt.dev/legal)
