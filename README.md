@@ -136,7 +136,10 @@ Windows 10 / 11 (64-bit) 対応・追加ランタイム不要ですぐに使い�
 
 ## 📝 解説記事・リンク集
 
-- **🏆 窓の杜（Mado-no-Mori）掲載記事（2026/10/23）**：[https://forest.watch.impress.co.jp/docs/digest/2150874.html](https://forest.watch.impress.co.jp/docs/digest/2150874.html)
+- **🏆 窓の杜（Impress）掲載実績（2回掲載）**：
+  - [2026/10/29号（v2.4.0・Microsoft Store公式版）](https://forest.watch.impress.co.jp/docs/digest/2152375.html)
+  - [2026/10/23号（初回リリース）](https://forest.watch.impress.co.jp/docs/digest/2150874.html)
+- **📰 活動者なび 紹介記事**：[Windows向けスクショツールSnapBolt公開、Pro機能は月額100円・買い切り500円](https://katsudousha.com/news-snapbolt-screenshot-tool-release/)
 - **🌐 公式サイト（14日間Pro招待リンク）**：[https://snapbolt.dev/r/8Y9PHK](https://snapbolt.dev/r/8Y9PHK)
 - **📘 Qiita 技術解説・活用記事**：
   - [【個人開発】「撮る・3秒でモザイク編集・そのままCtrl+Vで貼る」画面録画・オフラインOCR全部入りのWindowsスクショアプリ『SnapBolt』を作った](https://qiita.com/poron2356/items/779cb91e363719e4b075)
