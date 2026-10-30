@@ -5,18 +5,18 @@
 </p>
 
 <p align="center">
-  <a href="https://apps.microsoft.com/detail/9MTBJHKWKM43?hl=ja-jp&gl=JP"><img src="https://img.shields.io/badge/Microsoft_Store-Official_Certified_App-0078D4?style=for-the-badge&logo=microsoft" alt="Get it from Microsoft Store"></a>
+  <a href="https://apps.microsoft.com/detail/9MTBJHKWKM43"><img src="https://img.shields.io/badge/Microsoft_Store-Official_Certified_App-0078D4?style=for-the-badge&logo=microsoft" alt="Get it from Microsoft Store"></a>
   <a href="https://forest.watch.impress.co.jp/docs/digest/2152375.html"><img src="https://img.shields.io/badge/Featured_on-窓の杜_(Mado_no_Mori_x2)-10b981?style=for-the-badge" alt="Featured on 窓の杜"></a>
   <a href="https://github.com/poron2356-a11y/SnapBolt/releases/latest"><img src="https://img.shields.io/badge/Version-v2.5.2-3b82f6?style=for-the-badge" alt="Version v2.5.2"></a>
-  <a href="https://snapbolt.dev/r/8Y9PHK?lang=en"><img src="https://img.shields.io/badge/Platform-Windows_10_%2F_11_(x64)-0ea5e9?style=for-the-badge" alt="Platform Windows 10/11"></a>
+  <a href="https://snapbolt.dev/en/r/8Y9PHK"><img src="https://img.shields.io/badge/Platform-Windows_10_%2F_11_(x64)-0ea5e9?style=for-the-badge" alt="Platform Windows 10/11"></a>
 </p>
 
 <p align="center">
-  🏪 <a href="https://apps.microsoft.com/detail/9MTBJHKWKM43?hl=ja-jp&gl=JP"><b>Microsoft Store から無料入手（推奨・保護画面なし）</b></a>
+  🏪 <a href="https://apps.microsoft.com/detail/9MTBJHKWKM43"><b>Microsoft Store (Official Certified · Zero Warnings)</b></a>
   &nbsp;|&nbsp;
   🇯🇵 <a href="https://snapbolt.dev/r/8Y9PHK"><b>公式サイト（14日間Pro無料特典つき）</b></a>
   &nbsp;|&nbsp;
-  🌐 <a href="https://snapbolt.dev/r/8Y9PHK?lang=en"><b>Official Website (English)</b></a>
+  🌐 <a href="https://snapbolt.dev/en/r/8Y9PHK"><b>Official Website (English · 14-Day Trial)</b></a>
   &nbsp;|&nbsp;
   📦 <a href="https://github.com/poron2356-a11y/SnapBolt/releases/latest"><b>GitHub Releases</b></a>
 </p>
@@ -46,8 +46,8 @@
 - **Partner & Reviewer Details**: [**https://snapbolt.dev/en/affiliate**](https://snapbolt.dev/en/affiliate)
 - **Free Users**: Invite **3 friends** via your personal link (`https://snapbolt.dev/r/YOUR_CODE`) to unlock **Lifetime Pro for free ($0)**!
 - **Ongoing Rewards**:
-  - **Every 3 free referrals** = Earn **1 Giftable Lifetime Pro License Key** to share with teammates or followers.
-  - **Every 1 paid referral** = Claim a **¥200 Amazon Gift Card (40% commission)** directly inside the app (`🎁 Ambassador & Affiliate Program`).
+  - **Every 3 free referrals** = Earn **1 Giftable Lifetime Pro License Key ($14.99 value)** to share with teammates or followers.
+  - **Every 1 paid referral** = Earn **40% Creator Revenue Share** directly through our built-in Ambassador & Affiliate Program.
   - **Tech Bloggers / YouTubers / Creators**: Request a complimentary **Reviewer Lifetime Pro Key** anytime from the [Partner Page](https://snapbolt.dev/en/affiliate).
 
 ### 📚 English Engineering Deep-Dives (DEV.to)
@@ -115,7 +115,7 @@ Windows 10 / 11 (64-bit) 対応・追加ランタイム不要ですぐに使い�
 
 - **🌐 公式サイトからダウンロード（14日間Pro全機能特典つき）**  
   👉 **[日本語ページ](https://snapbolt.dev/r/8Y9PHK)** | **[English Page](https://snapbolt.dev/en/r/8Y9PHK)** | **[💎 Global Lifetime Pro ($14.99 USD on Gumroad)](https://poron1.gumroad.com/l/snapbolt)**
-  > 紹介コード **`8Y9PHK`** が自動適用され、通常24時間のPro全機能体験期間が **14日間** に延長されます（期間終了後も、基本のスクショ撮影・注釈・保存・10秒録画・色スポイトはずっと完全無料で使い続けられます）。
+  > 紹介コード **`8Y9PHK`** が自動適用され、通常7日間のPro全機能体験期間が **14日間** に延長されます（期間終了後も、基本のスクショ撮影・注釈・保存・10秒録画・色スポイトはずっと完全無料で使い続けられます）。
 
 - **📦 GitHub Releases から直接ダウンロード**  
   👉 **[Releases ページ](https://github.com/poron2356-a11y/SnapBolt/releases/latest)** からインストーラー版またはポータブルZIP版を入手できます。
