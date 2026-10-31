@@ -7,16 +7,22 @@
 <p align="center">
   <a href="https://apps.microsoft.com/detail/9MTBJHKWKM43"><img src="https://img.shields.io/badge/Microsoft_Store-Official_Certified_App-0078D4?style=for-the-badge&logo=microsoft" alt="Get it from Microsoft Store"></a>
   <a href="https://forest.watch.impress.co.jp/docs/digest/2152375.html"><img src="https://img.shields.io/badge/Featured_on-窓の杜_(Mado_no_Mori_x2)-10b981?style=for-the-badge" alt="Featured on 窓の杜"></a>
-  <a href="https://github.com/poron2356-a11y/SnapBolt/releases/latest"><img src="https://img.shields.io/badge/Version-v2.5.3-3b82f6?style=for-the-badge" alt="Version v2.5.3"></a>
+  <a href="https://github.com/poron2356-a11y/SnapBolt/releases/latest"><img src="https://img.shields.io/badge/Version-v2.6.0-3b82f6?style=for-the-badge" alt="Version v2.6.0"></a>
+  <a href="https://snapbolt.dev/en/r/8Y9PHK"><img src="https://img.shields.io/badge/Languages-8_Native_(JA·EN·繁·简·KO·DE·ES·PT)-8b5cf6?style=for-the-badge" alt="8 Languages"></a>
   <a href="https://snapbolt.dev/en/r/8Y9PHK"><img src="https://img.shields.io/badge/Platform-Windows_10_%2F_11_(x64)-0ea5e9?style=for-the-badge" alt="Platform Windows 10/11"></a>
 </p>
 
 <p align="center">
   🏪 <a href="https://apps.microsoft.com/detail/9MTBJHKWKM43"><b>Microsoft Store (Official Certified · Zero Warnings)</b></a>
   &nbsp;|&nbsp;
-  🇯🇵 <a href="https://snapbolt.dev/r/8Y9PHK"><b>公式サイト（14日間Pro無料特典つき）</b></a>
-  &nbsp;|&nbsp;
-  🌐 <a href="https://snapbolt.dev/en/r/8Y9PHK"><b>Official Website (English · 14-Day Trial)</b></a>
+  🇯🇵 <a href="https://snapbolt.dev/r/8Y9PHK"><b>日本語</b></a> ·
+  🌐 <a href="https://snapbolt.dev/en/r/8Y9PHK"><b>English</b></a> ·
+  🇹🇼 <a href="https://snapbolt.dev/zh-tw/r/8Y9PHK"><b>繁體中文</b></a> ·
+  🇨🇳 <a href="https://snapbolt.dev/zh-cn/r/8Y9PHK"><b>简体中文</b></a> ·
+  🇰🇷 <a href="https://snapbolt.dev/ko/r/8Y9PHK"><b>한국어</b></a> ·
+  🇩🇪 <a href="https://snapbolt.dev/de/r/8Y9PHK"><b>Deutsch</b></a> ·
+  🇪🇸 <a href="https://snapbolt.dev/es/r/8Y9PHK"><b>Español</b></a> ·
+  🇧🇷 <a href="https://snapbolt.dev/pt/r/8Y9PHK"><b>Português</b></a>
   &nbsp;|&nbsp;
   📦 <a href="https://github.com/poron2356-a11y/SnapBolt/releases/latest"><b>GitHub Releases</b></a>
 </p>
@@ -25,9 +31,9 @@
 
 ## 🌍 English Overview (For Global Users)
 
-**SnapBolt** is a native C# / WPF all-in-one screen capture & productivity utility for Windows 10 / 11 — designed to start in **0.1 seconds** and run **100% offline** with zero cloud uploads.
+**SnapBolt** is a native C# / WPF all-in-one screen capture & productivity utility for Windows 10 / 11 — designed to start in **0.1 seconds**, natively localized into **8 languages (`日本語`, `English`, `繁體中文`, `简体中文`, `한국어`, `Deutsch`, `Español`, `Português`)**, and engineered to run **100% offline** with zero cloud uploads.
 
-### ✨ Key Features (v2.5.3 Latest)
+### ✨ Key Features (v2.6.0 Latest)
 1. **📜 Full-Page Scrolling Capture (`Ctrl + Shift + L` / Top Bar `📜 Scroll`) — NEW!**
    - Automatically scrolls and stitches long web pages, AI chat threads, code editors, and settings panes into a single seamless high-DPI PNG — with 1px static sidebar isolation and floating button de-ghosting.
 2. **🎯 Auto Window & UI Element Snap + 3s Delayed Capture (`PrintScreen`)**
@@ -62,7 +68,7 @@
 
 **SnapBolt（スナップボルト）** は、Windows 10 / 11 で毎日の手順書作成・バグ報告・開発業務を10倍速くするために設計された、**完全オフライン（外部送信ゼロ）・軽量ネイティブ設計** のオールインワン画面キャプチャ＆録画ユーティリティです（[**窓の杜 掲載ソフト（2026年10月23日号）**](https://forest.watch.impress.co.jp/docs/digest/2150874.html)）。
 
-### ✨ 主な機能（v2.5.3 最新版）
+### ✨ 主な機能（v2.6.0 最新版 — 世界8言語ネイティブ対応！）
 
 1. **📜 縦長スクロールキャプチャ（`Ctrl + Shift + L` / 上部バー `📜 スクロール`）【NEW!】**
    - Webページやチャット画面、設定画面などの縦に長いウィンドウを自動スクロールしながら1枚の高精細画像へシームレス結合。左右の非スクロール固定メニュー分離や浮遊ボタンの残像自動除去にも対応しています。
