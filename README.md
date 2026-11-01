@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://apps.microsoft.com/detail/9MTBJHKWKM43"><img src="https://img.shields.io/badge/Microsoft_Store-Official_Certified_App-0078D4?style=for-the-badge&logo=microsoft" alt="Get it from Microsoft Store"></a>
   <a href="https://forest.watch.impress.co.jp/docs/digest/2152375.html"><img src="https://img.shields.io/badge/Featured_on-窓の杜_(Mado_no_Mori_x2)-10b981?style=for-the-badge" alt="Featured on 窓の杜"></a>
-  <a href="https://github.com/poron2356-a11y/SnapBolt/releases/latest"><img src="https://img.shields.io/badge/Version-v2.6.0-3b82f6?style=for-the-badge" alt="Version v2.6.0"></a>
+  <a href="https://github.com/poron2356-a11y/SnapBolt/releases/latest"><img src="https://img.shields.io/badge/Version-v2.6.1-3b82f6?style=for-the-badge" alt="Version v2.6.1"></a>
   <a href="https://snapbolt.dev/en/r/8Y9PHK"><img src="https://img.shields.io/badge/Languages-8_Native_(JA·EN·繁·简·KO·DE·ES·PT)-8b5cf6?style=for-the-badge" alt="8 Languages"></a>
   <a href="https://snapbolt.dev/en/r/8Y9PHK"><img src="https://img.shields.io/badge/Platform-Windows_10_%2F_11_(x64)-0ea5e9?style=for-the-badge" alt="Platform Windows 10/11"></a>
 </p>
@@ -33,7 +33,7 @@
 
 **SnapBolt** is a native C# / WPF all-in-one screen capture & productivity utility for Windows 10 / 11 — designed to start in **0.1 seconds**, natively localized into **8 languages (`日本語`, `English`, `繁體中文`, `简体中文`, `한국어`, `Deutsch`, `Español`, `Português`)**, and engineered to run **100% offline** with zero cloud uploads.
 
-### ✨ Key Features (v2.6.0 Latest)
+### ✨ Key Features (v2.6.1 Latest)
 1. **📜 Full-Page Scrolling Capture (`Ctrl + Shift + L` / Top Bar `📜 Scroll`) — NEW!**
    - Automatically scrolls and stitches long web pages, AI chat threads, code editors, and settings panes into a single seamless high-DPI PNG — with 1px static sidebar isolation and floating button de-ghosting.
 2. **🎯 Auto Window & UI Element Snap + 3s Delayed Capture (`PrintScreen`)**
@@ -57,6 +57,7 @@
   - **Tech Bloggers / YouTubers / Creators**: Request a complimentary **Reviewer Lifetime Pro Key** anytime from the [Partner Page](https://snapbolt.dev/en/affiliate).
 
 ### 📚 English Engineering Deep-Dives (DEV.to)
+- [How to Take Full-Page Scrolling Screenshots of Any App on Windows 11/10 (Free, Native & 100% Offline)](https://dev.to/snapbolt_win/how-to-take-full-page-scrolling-screenshots-of-any-app-on-windows-1110-free-native-100-2b5k)
 - [Windows 11 Snipping Tool Is Too Slow: Here's a 0.1s Alternative with Instant Blur, GIF Studio & Offline OCR](https://dev.to/snapbolt_win/windows-11-snipping-tool-is-too-slow-heres-a-01s-alternative-with-instant-blur-gif-studio--3i13)
 - [I built "CleanShot X for Windows" — Auto Window Snap, 1-Click Beautifier Frame, MP4/GIF Studio & 100% Offline QR/OCR](https://dev.to/snapbolt_win/i-built-cleanshot-x-for-windows-auto-window-snap-1-click-beautifier-frame-mp4gif-studio--15je)
 - [How to Read QR Codes & Extract Uncopyable Text on Windows 10/11 (100% Offline, Zero Cloud Uploads)](https://dev.to/snapbolt_win/how-to-read-qr-codes-extract-uncopyable-text-on-windows-1011-100-offline-zero-cloud-uploads-3kb5)
@@ -68,7 +69,7 @@
 
 **SnapBolt（スナップボルト）** は、Windows 10 / 11 で毎日の手順書作成・バグ報告・開発業務を10倍速くするために設計された、**完全オフライン（外部送信ゼロ）・軽量ネイティブ設計** のオールインワン画面キャプチャ＆録画ユーティリティです（[**窓の杜 掲載ソフト（2026年10月23日号）**](https://forest.watch.impress.co.jp/docs/digest/2150874.html)）。
 
-### ✨ 主な機能（v2.6.0 最新版 — 世界8言語ネイティブ対応！）
+### ✨ 主な機能（v2.6.1 最新版 — 世界8言語ネイティブ対応！）
 
 1. **📜 縦長スクロールキャプチャ（`Ctrl + Shift + L` / 上部バー `📜 スクロール`）【NEW!】**
    - Webページやチャット画面、設定画面などの縦に長いウィンドウを自動スクロールしながら1枚の高精細画像へシームレス結合。左右の非スクロール固定メニュー分離や浮遊ボタンの残像自動除去にも対応しています。
@@ -156,6 +157,7 @@ Windows 10 / 11 (64-bit) 対応・追加ランタイム不要ですぐに使い�
 - **📰 活動者なび 紹介記事**：[Windows向けスクショツールSnapBolt公開、Pro機能は月額100円・買い切り500円](https://katsudousha.com/news-snapbolt-screenshot-tool-release/)
 - **🌐 公式サイト（14日間Pro招待リンク）**：[https://snapbolt.dev/r/8Y9PHK](https://snapbolt.dev/r/8Y9PHK)
 - **📘 Qiita 技術解説・活用記事**：
+  - [Windows 11/10で長いWebページ・ChatGPT・設定画面を1枚に「縦長スクロール撮影」する方法とC#/WPF画像結合の勘所【Microsoft Store公式・外部送信ゼロ】](https://qiita.com/poron2356/items/6d1f7ad35861225840cd)
   - [【個人開発】「撮る・3秒でモザイク編集・そのままCtrl+Vで貼る」画面録画・オフラインOCR全部入りのWindowsスクショアプリ『SnapBolt』を作った](https://qiita.com/poron2356/items/779cb91e363719e4b075)
   - [WindowsでPC画面上のQRコードや選択できない文字を1秒で読み取る方法【スマホ不要・完全オフライン】](https://qiita.com/poron2356/items/ed890d5d49e8f544d01e)
   - [Windowsで「消えるホバーメニュー」をスクショして、3秒でSNS・記事向け(16:9)に整える方法](https://qiita.com/poron2356/items/b2b509c1802d1f8d1c32)
