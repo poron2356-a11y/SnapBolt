@@ -98,16 +98,19 @@
 
 ---
 
-## 📸 スクリーンショット / Screenshots
+## 📸 Screenshots / スクリーンショット
 
-### ① ウィンドウ自動枠合わせキャプチャ / Auto Window Snap
-![ウィンドウ自動枠合わせ](https://snapbolt.dev/assets/shot_snap.png)
+### ① Instant Capture & 3-Second Blur / Step Annotations (`Ctrl + V`)
+![Instant Capture & Editor](https://snapbolt.dev/assets/screens/en/s1_editor.png)
 
-### ② 3秒アノテーション編集 ＆ そのまま `Ctrl + V` 貼り付け / 3-Second Annotations
-![エディタ](https://snapbolt.dev/assets/shot_editor.png)
+### ② Full-Page Scrolling Capture (`Ctrl + Shift + L`)
+![Full-Page Scrolling Capture](https://snapbolt.dev/assets/screens/en/s2_scroll.png)
 
-### ③ MP4/GIF 画面録画スタジオ ＆ 完全オフライン QR / OCR
-![画面録画スタジオ＆OCR](https://snapbolt.dev/assets/shot_record_ocr.png)
+### ③ Built-in MP4 / GIF Recording Studio & 100% Offline QR / OCR
+![MP4/GIF Recording Studio](https://snapbolt.dev/assets/screens/en/s3_video.png)
+
+### ④ Native 8-Language UI (`日本語 · English · 繁體中文 · 简体中文 · 한국어 · Deutsch · Español · Português`)
+![Native 8-Language Settings](https://snapbolt.dev/assets/screens/en/s6_langs.png)
 
 ---
 
