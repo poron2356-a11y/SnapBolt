@@ -1,7 +1,7 @@
 # ⚡ SnapBolt — Windows 10/11 Ultra-Fast Screenshot, Scrolling Capture, Screen Recorder & Offline QR/OCR
 
 <p align="center">
-  <img src="https://snapbolt.dev/assets/ogp.png" alt="SnapBolt" width="760">
+  <img src="https://snapbolt.dev/assets/ogp_en.png?v=262" alt="SnapBolt — Free Windows 10/11 Screenshot, Scrolling Capture, GIF Studio & Offline OCR" width="840">
 </p>
 
 <p align="center">
@@ -67,7 +67,11 @@
 
 ## 🇯🇵 SnapBolt とは？（日本語ガイド）
 
-**SnapBolt（スナップボルト）** は、Windows 10 / 11 で毎日の手順書作成・バグ報告・開発業務を10倍速くするために設計された、**完全オフライン（外部送信ゼロ）・軽量ネイティブ設計** のオールインワン画面キャプチャ＆録画ユーティリティです（[**窓の杜 掲載ソフト（2026年10月23日号）**](https://forest.watch.impress.co.jp/docs/digest/2150874.html)）。
+<p align="center">
+  <img src="https://snapbolt.dev/assets/ogp.png?v=262" alt="SnapBolt 日本語公式バナー" width="840">
+</p>
+
+**SnapBolt（スナップボルト）** は、Windows 10 / 11 で毎日の手順書作成・バグ報告・開発業務を10倍速くするために設計された、**完全オフライン（外部送信ゼロ）・軽量ネイティブ設計** のオールインワン画面キャプチャ＆録画ユーティリティです（[**窓の杜 2度掲載（2026年10月23日号・10月29日号）**](https://forest.watch.impress.co.jp/docs/digest/2152375.html)）。
 
 ### ✨ 主な機能（v2.6.1 最新版 — 世界8言語ネイティブ対応！）
 
