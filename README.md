@@ -161,12 +161,16 @@ Windows 10 / 11 (64-bit) 対応・追加ランタイム不要ですぐに使い�
 - **📰 活動者なび 紹介記事**：[Windows向けスクショツールSnapBolt公開、Pro機能は月額100円・買い切り500円](https://katsudousha.com/news-snapbolt-screenshot-tool-release/)
 - **🌐 公式サイト（14日間Pro招待リンク）**：[https://snapbolt.dev/r/8Y9PHK](https://snapbolt.dev/r/8Y9PHK)
 - **📘 Qiita 技術解説・活用記事**：
-  - [Windows 11/10で長いWebページ・ChatGPT・設定画面を1枚に「縦長スクロール撮影」する方法とC#/WPF画像結合の勘所【Microsoft Store公式・外部送信ゼロ】](https://qiita.com/poron2356/items/6d1f7ad35861225840cd)
   - [【個人開発】「撮る・3秒でモザイク編集・そのままCtrl+Vで貼る」画面録画・オフラインOCR全部入りのWindowsスクショアプリ『SnapBolt』を作った](https://qiita.com/poron2356/items/779cb91e363719e4b075)
   - [WindowsでPC画面上のQRコードや選択できない文字を1秒で読み取る方法【スマホ不要・完全オフライン】](https://qiita.com/poron2356/items/ed890d5d49e8f544d01e)
   - [Windowsで「消えるホバーメニュー」をスクショして、3秒でSNS・記事向け(16:9)に整える方法](https://qiita.com/poron2356/items/b2b509c1802d1f8d1c32)
 - **📗 Zenn 技術解説記事**：[Windowsのスクショ・画面録画・OCRの不満を全部潰す超高速ツール「SnapBolt」を個人開発した話](https://zenn.dev/poron7055/articles/0fc6238deb247f)
-- **📓 note 紹介記事**：[毎日の「スクショ撮って編集して貼る」が面倒すぎたので、AIと一緒に全部入りの最強Windowsアプリ『SnapBolt』を自作して公開した話](https://note.com/poron7055/n/n2fd02eaeba36)
+- **📓 note 開発ストーリー・紹介記事**：
+  - [【個人開発0→1達成】コード知識ゼロからAIと作ったWindowsスクショアプリ『SnapBolt』が、窓の杜に2度掲載され初の有料購入者が出るまでの全記録](https://note.com/poron7055/n/nb527f458d0fa)
+  - [毎日の「スクショ撮って編集して貼る」が面倒すぎたので、AIと一緒に全部入りの最強Windowsアプリ『SnapBolt』を自作して公開した話](https://note.com/poron7055/n/n2fd02eaeba36)
+- **🧭 SaaSHub (Officially Verified) & Product Hunt**：
+  - [SnapBolt on SaaSHub — Officially Verified Alternatives & Comparisons](https://www.saashub.com/snapbolt-dev-alternatives)
+  - [SnapBolt on Product Hunt](https://www.producthunt.com/products/snapbolt)
 - **🌐 DEV.to English Guides & Tutorials**：
   - [Windows 11 Snipping Tool Is Too Slow: Here's a 0.1s Alternative with Instant Blur, GIF Studio & Offline OCR](https://dev.to/snapbolt_win/windows-11-snipping-tool-is-too-slow-heres-a-01s-alternative-with-instant-blur-gif-studio--3i13)
   - [I built "CleanShot X for Windows" — Auto Window Snap, 1-Click Beautifier Frame, MP4/GIF Studio & 100% Offline QR/OCR](https://dev.to/snapbolt_win/i-built-cleanshot-x-for-windows-auto-window-snap-1-click-beautifier-frame-mp4gif-studio--15je)
