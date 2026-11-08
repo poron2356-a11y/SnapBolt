@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://apps.microsoft.com/detail/9MTBJHKWKM43"><img src="https://img.shields.io/badge/Microsoft_Store-Official_Certified_App-0078D4?style=for-the-badge&logo=microsoft" alt="Get it from Microsoft Store"></a>
   <a href="https://forest.watch.impress.co.jp/docs/digest/2152375.html"><img src="https://img.shields.io/badge/Featured_on-窓の杜_(Mado_no_Mori_x2)-10b981?style=for-the-badge" alt="Featured on 窓の杜"></a>
-  <a href="https://github.com/poron2356-a11y/SnapBolt/releases/latest"><img src="https://img.shields.io/badge/Version-v2.6.3-3b82f6?style=for-the-badge" alt="Version v2.6.3"></a>
+  <a href="https://github.com/poron2356-a11y/SnapBolt/releases/latest"><img src="https://img.shields.io/badge/Version-v2.6.4-3b82f6?style=for-the-badge" alt="Version v2.6.4"></a>
   <a href="https://snapbolt.dev/en/r/8Y9PHK"><img src="https://img.shields.io/badge/Languages-8_Native_(JA·EN·繁·简·KO·DE·ES·PT)-8b5cf6?style=for-the-badge" alt="8 Languages"></a>
   <a href="https://snapbolt.dev/en/r/8Y9PHK"><img src="https://img.shields.io/badge/Platform-Windows_10_%2F_11_(x64)-0ea5e9?style=for-the-badge" alt="Platform Windows 10/11"></a>
 </p>
@@ -33,8 +33,12 @@
 
 **SnapBolt** is a native C# / WPF all-in-one screen capture & productivity utility for Windows 10 / 11 — designed to start in **0.1 seconds**, natively localized into **8 languages (`日本語`, `English`, `繁體中文`, `简体中文`, `한국어`, `Deutsch`, `Español`, `Português`)**, and engineered to run **100% offline** with zero cloud uploads.
 
-### ✨ Key Features (v2.6.3 Latest)
-1. **📜 Full-Page Scrolling Capture (`Ctrl + Shift + L` / Top Bar `📜 Scroll`) — NEW!**
+### ✨ Key Features (v2.6.4 Latest)
+1. **🔒 1-Click Offline Auto-Redact PII (`Ctrl + Shift + M`) & 📏 Smart Edge-Detecting Pixel Ruler (`D` Key) — NEW in v2.6.4!**
+   - **🔒 1-Click Auto-Redact PII**: Combines 100% offline Windows OCR with regex detection to automatically locate and pixelate emails, phone numbers, credit cards, IPs, JWT/API keys, and secrets in one click (click again to redact all numeric metrics).
+   - **📏 Smart Pixel Ruler (`D` key)**: Click once between any UI elements to auto-detect edge boundaries and draw exact `px` dimensions, or drag to measure freely.
+   - **🖼️ Floating Ghost Drag-and-Drop**: Drag the post-capture toast or history thumbnail directly into Slack, Discord, Teams, GitHub, or Docs with a live floating preview.
+2. **📜 Full-Page Scrolling Capture (`Ctrl + Shift + L` / Top Bar `📜 Scroll`)**
    - Automatically scrolls and stitches long web pages, AI chat threads, code editors, and settings panes into a single seamless high-DPI PNG — with 1px static sidebar isolation and floating button de-ghosting.
 2. **🎯 Auto Window & UI Element Snap + 3s Delayed Capture (`PrintScreen`)**
    - Hover over any window or UI element to auto-snap its exact bounds, or use the **⏱️ 3s Delay Capture** button to freeze disappearing hover menus and right-click context menus.
@@ -73,9 +77,13 @@
 
 **SnapBolt（スナップボルト）** は、Windows 10 / 11 で毎日の手順書作成・バグ報告・開発業務を10倍速くするために設計された、**完全オフライン（外部送信ゼロ）・軽量ネイティブ設計** のオールインワン画面キャプチャ＆録画ユーティリティです（[**窓の杜 2度掲載（2026年10月23日号・10月29日号）**](https://forest.watch.impress.co.jp/docs/digest/2152375.html)）。
 
-### ✨ 主な機能（v2.6.3 最新版 — 世界8言語ネイティブ対応！）
+### ✨ 主な機能（v2.6.4 最新版 — 世界8言語ネイティブ対応！）
 
-1. **📜 縦長スクロールキャプチャ（`Ctrl + Shift + L` / 上部バー `📜 スクロール`）【NEW!】**
+1. **🔒 1クリック自動モザイク（`Ctrl + Shift + M`）＆ 📏 境界自動検出スマートピクセル定規（`D` キー）【v2.6.4 NEW!】**
+   - **🔒 1クリック自動モザイク**：完全オフラインのWindows OCRと正規表現検出を組み合わせ、画面内のメールアドレス・電話番号・クレカ番号・IPアドレス・APIキー等を1クリックで自動検出して一括モザイク処理（再クリックで全数値も対象）。
+   - **📏 スマートピクセル定規（`D`キー）**：余白をクリックするだけで上下左右のUI境界を自動検出してピクセル距離（`px`）を計測・描画。ドラッグでの自由測定にも対応。
+   - **🖼️ プレビュー追従ドラッグ＆ドロップ貼り付け**：撮影後の通知トーストや履歴から、半透明プレビュー付きでSlack・Discord・Teams・ブラウザ・Word等へ直接ドラッグ＆ドロップ貼り付けが可能。
+2. **📜 縦長スクロールキャプチャ（`Ctrl + Shift + L` / 上部バー `📜 スクロール`）**
    - Webページやチャット画面、設定画面などの縦に長いウィンドウを自動スクロールしながら1枚の高精細画像へシームレス結合。左右の非スクロール固定メニュー分離や浮遊ボタンの残像自動除去にも対応しています。
 
 2. **🎯 ウィンドウ・UI要素の自動枠合わせ（オートスナップ）**
