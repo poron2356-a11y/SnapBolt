@@ -18,6 +18,8 @@
   &nbsp;|&nbsp;
   ⚡ <a href="https://snapbolt.dev/store-installer"><b>Microsoft-Signed 0.8 MB Installer (.exe)</b></a>
   &nbsp;|&nbsp;
+  🔒 <a href="https://snapbolt.dev/en/redact"><b>Free Online Screenshot Redact Tool (Browser · Zero Upload)</b></a>
+  <br>
   🇯🇵 <a href="https://snapbolt.dev/r/8Y9PHK"><b>日本語</b></a> ·
   🌐 <a href="https://snapbolt.dev/en/r/8Y9PHK"><b>English</b></a> ·
   🇹🇼 <a href="https://snapbolt.dev/zh-tw/r/8Y9PHK"><b>繁體中文</b></a> ·
@@ -31,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://snapbolt.dev/assets/demo_auto_mosaic.gif" alt="SnapBolt 0.3s 1-Click Offline Auto-Redact PII & Smart Pixel Ruler Demo" width="760">
+  <img src="https://snapbolt.dev/assets/demo_auto_mosaic_en.gif" alt="SnapBolt 0.3s 1-Click Offline Auto-Redact PII & Smart Pixel Ruler Demo" width="760">
 </p>
 
 ---
@@ -79,10 +81,10 @@
 ## 🇯🇵 SnapBolt とは？（日本語ガイド）
 
 <p align="center">
-  <img src="https://snapbolt.dev/assets/ogp.png?v=262" alt="SnapBolt 日本語公式バナー" width="840">
+  <img src="https://snapbolt.dev/assets/demo_auto_mosaic.gif" alt="SnapBolt 日本語版 1クリック自動モザイク＆ピクセル定規デモ" width="760">
 </p>
 
-**SnapBolt（スナップボルト）** は、Windows 10 / 11 で毎日の手順書作成・バグ報告・開発業務を10倍速くするために設計された、**完全オフライン（外部送信ゼロ）・軽量ネイティブ設計** のオールインワン画面キャプチャ＆録画ユーティリティです（[**窓の杜 3度掲載（2026年10月23日号・10月29日号・11月11日号）**](https://forest.watch.impress.co.jp/docs/digest/2155649.html) ／ [**Vector ソフトライブラリ公式収録**](https://www.vector.co.jp/soft/winnt/art/se529929.html)）。
+**SnapBolt（スナップボルト）** は、Windows 10 / 11 で毎日の手順書作成・バグ報告・開発業務を10倍速くするために設計された、**完全オフライン（外部送信ゼロ）・軽量ネイティブ設計** のオールインワン画面キャプチャ＆録画ユーティリティです（[**窓の杜 3度掲載（2026年10月23日号・10月29日号・11月11日号）**](https://forest.watch.impress.co.jp/docs/digest/2155649.html) ／ [**Vector ソフトライブラリ公式収録**](https://www.vector.co.jp/soft/winnt/art/se529929.html) ／ [**無料ブラウザモザイクWebツール**](https://snapbolt.dev/mosaic)）。
 
 ### ✨ 主な機能（v2.6.6 最新版 — 世界8言語ネイティブ対応！）
 
