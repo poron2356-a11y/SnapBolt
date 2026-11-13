@@ -1,19 +1,22 @@
-# ⚡ SnapBolt — Windows 10/11 Ultra-Fast Screenshot, Scrolling Capture, Screen Recorder & Offline QR/OCR
+# ⚡ SnapBolt — Windows 10/11 Ultra-Fast Screenshot, Scrolling Capture, Auto-Redact PII, GIF Studio & Offline QR/OCR
 
 <p align="center">
-  <img src="https://snapbolt.dev/assets/ogp_en.png?v=262" alt="SnapBolt — Free Windows 10/11 Screenshot, Scrolling Capture, GIF Studio & Offline OCR" width="840">
+  <img src="https://snapbolt.dev/assets/ogp_en.png?v=262" alt="SnapBolt — Free Windows 10/11 Screenshot, Scrolling Capture, Auto-Redact PII, GIF Studio & Offline OCR" width="840">
 </p>
 
 <p align="center">
   <a href="https://apps.microsoft.com/detail/9MTBJHKWKM43"><img src="https://img.shields.io/badge/Microsoft_Store-Official_Certified_App-0078D4?style=for-the-badge&logo=microsoft" alt="Get it from Microsoft Store"></a>
-  <a href="https://forest.watch.impress.co.jp/docs/digest/2152375.html"><img src="https://img.shields.io/badge/Featured_on-窓の杜_(Mado_no_Mori_x2)-10b981?style=for-the-badge" alt="Featured on 窓の杜"></a>
-  <a href="https://github.com/poron2356-a11y/SnapBolt/releases/latest"><img src="https://img.shields.io/badge/Version-v2.6.4-3b82f6?style=for-the-badge" alt="Version v2.6.4"></a>
+  <a href="https://snapbolt.dev/store-installer"><img src="https://img.shields.io/badge/Signed_Web_Installer-0.8_MB_(.exe)-059669?style=for-the-badge&logo=windows" alt="Microsoft-Signed 0.8 MB Web Installer"></a>
+  <a href="https://forest.watch.impress.co.jp/docs/digest/2155649.html"><img src="https://img.shields.io/badge/Featured_on-窓の杜_(Mado_no_Mori_x3)-10b981?style=for-the-badge" alt="Featured on 窓の杜 x3"></a>
+  <a href="https://github.com/poron2356-a11y/SnapBolt/releases/latest"><img src="https://img.shields.io/badge/Version-v2.6.5-3b82f6?style=for-the-badge" alt="Version v2.6.5"></a>
   <a href="https://snapbolt.dev/en/r/8Y9PHK"><img src="https://img.shields.io/badge/Languages-8_Native_(JA·EN·繁·简·KO·DE·ES·PT)-8b5cf6?style=for-the-badge" alt="8 Languages"></a>
   <a href="https://snapbolt.dev/en/r/8Y9PHK"><img src="https://img.shields.io/badge/Platform-Windows_10_%2F_11_(x64)-0ea5e9?style=for-the-badge" alt="Platform Windows 10/11"></a>
 </p>
 
 <p align="center">
-  🏪 <a href="https://apps.microsoft.com/detail/9MTBJHKWKM43"><b>Microsoft Store (Official Certified · Zero Warnings)</b></a>
+  🏪 <a href="https://apps.microsoft.com/detail/9MTBJHKWKM43"><b>Microsoft Store (Official Certified · No Login Needed)</b></a>
+  &nbsp;|&nbsp;
+  ⚡ <a href="https://snapbolt.dev/store-installer"><b>Microsoft-Signed 0.8 MB Installer (.exe)</b></a>
   &nbsp;|&nbsp;
   🇯🇵 <a href="https://snapbolt.dev/r/8Y9PHK"><b>日本語</b></a> ·
   🌐 <a href="https://snapbolt.dev/en/r/8Y9PHK"><b>English</b></a> ·
@@ -33,23 +36,23 @@
 
 **SnapBolt** is a native C# / WPF all-in-one screen capture & productivity utility for Windows 10 / 11 — designed to start in **0.1 seconds**, natively localized into **8 languages (`日本語`, `English`, `繁體中文`, `简体中文`, `한국어`, `Deutsch`, `Español`, `Português`)**, and engineered to run **100% offline** with zero cloud uploads.
 
-### ✨ Key Features (v2.6.4 Latest)
-1. **🔒 1-Click Offline Auto-Redact PII (`Ctrl + Shift + M`) & 📏 Smart Edge-Detecting Pixel Ruler (`D` Key) — NEW in v2.6.4!**
+### ✨ Key Features (v2.6.5 Latest)
+1. **🔒 1-Click Offline Auto-Redact PII (`Ctrl + Shift + M`) & 📏 Smart Edge-Detecting Pixel Ruler (`D` Key) — NEW in v2.6.4 / v2.6.5!**
    - **🔒 1-Click Auto-Redact PII**: Combines 100% offline Windows OCR with regex detection to automatically locate and pixelate emails, phone numbers, credit cards, IPs, JWT/API keys, and secrets in one click (click again to redact all numeric metrics).
    - **📏 Smart Pixel Ruler (`D` key)**: Click once between any UI elements to auto-detect edge boundaries and draw exact `px` dimensions, or drag to measure freely.
    - **🖼️ Floating Ghost Drag-and-Drop**: Drag the post-capture toast or history thumbnail directly into Slack, Discord, Teams, GitHub, or Docs with a live floating preview.
 2. **📜 Full-Page Scrolling Capture (`Ctrl + Shift + L` / Top Bar `📜 Scroll`)**
    - Automatically scrolls and stitches long web pages, AI chat threads, code editors, and settings panes into a single seamless high-DPI PNG — with 1px static sidebar isolation and floating button de-ghosting.
-2. **🎯 Auto Window & UI Element Snap + 3s Delayed Capture (`PrintScreen`)**
+3. **🎯 Auto Window & UI Element Snap + 3s Delayed Capture (`PrintScreen`)**
    - Hover over any window or UI element to auto-snap its exact bounds, or use the **⏱️ 3s Delay Capture** button to freeze disappearing hover menus and right-click context menus.
-3. **✏️ 3-Second Annotations & Instant `Ctrl + V` Paste**
+4. **✏️ 3-Second Annotations & Instant `Ctrl + V` Paste**
    - Add red boxes, arrows, pixel mosaic/blur, numbered step badges (`① ② ③`), or highlighter and press `Enter` (`Copy & Finish`) to paste directly into Slack, Teams, Notion, GitHub Issues, or Word without cluttering your desktop.
    - **Smart History Management**: Unedited screenshots are saved cleanly as a single entry; edited screenshots preserve both `【Original】` and `【Edited】` versions side by side.
-4. **🎬 Built-in MP4 / GIF Screen Recording Studio**
+5. **🎬 Built-in MP4 / GIF Screen Recording Studio**
    - Switch from screenshot to video recording in one click, then trim start/end points, apply 2x speed, and add captions in the built-in studio.
-5. **🔍 100% Offline QR Code / Barcode & OCR Text Reader (`Ctrl + Shift + O`)**
+6. **🔍 100% Offline QR Code / Barcode & OCR Text Reader (`Ctrl + Shift + O`)**
    - Drag over any unselectable error dialog, video frame, or on-screen QR code to extract text/URLs completely offline on your PC.
-6. **🎨 1px Magnifier Screen Color Picker (`C` key)**
+7. **🎨 1px Magnifier Screen Color Picker (`C` key)**
    - Inspect exact pixel coordinates with a live magnifier loupe and copy `#RRGGBB` HEX codes in a single click.
 
 ### 🎁 Ambassador & Affiliate Program (Built into the App — 40% Revenue Share!)
@@ -61,11 +64,11 @@
   - **Tech Bloggers / YouTubers / Creators**: Request a complimentary **Reviewer Lifetime Pro Key** anytime from the [Partner Page](https://snapbolt.dev/en/affiliate).
 
 ### 📚 English Engineering Deep-Dives (DEV.to)
+- [How to Auto-Redact Emails, API Keys & PII in Screenshots Before Pasting to ChatGPT (100% Offline on Windows)](https://dev.to/snapbolt_win/how-to-auto-redact-emails-api-keys-pii-in-screenshots-before-pasting-to-chatgpt-100-offline-on-1p58)
+- [How to Measure Exact Pixel Distances & UI Padding on Windows 11/10 with a Smart Edge-Detecting Ruler](https://dev.to/snapbolt_win/how-to-measure-exact-pixel-distances-ui-padding-on-windows-1110-with-a-smart-edge-detecting-ruler-5cgk)
 - [How to Take Full-Page Scrolling Screenshots of Any App on Windows 11/10 (Free, Native & 100% Offline)](https://dev.to/snapbolt_win/how-to-take-full-page-scrolling-screenshots-of-any-app-on-windows-1110-free-native-100-2b5k)
 - [Windows 11 Snipping Tool Is Too Slow: Here's a 0.1s Alternative with Instant Blur, GIF Studio & Offline OCR](https://dev.to/snapbolt_win/windows-11-snipping-tool-is-too-slow-heres-a-01s-alternative-with-instant-blur-gif-studio--3i13)
 - [I built "CleanShot X for Windows" — Auto Window Snap, 1-Click Beautifier Frame, MP4/GIF Studio & 100% Offline QR/OCR](https://dev.to/snapbolt_win/i-built-cleanshot-x-for-windows-auto-window-snap-1-click-beautifier-frame-mp4gif-studio--15je)
-- [How to Read QR Codes & Extract Uncopyable Text on Windows 10/11 (100% Offline, Zero Cloud Uploads)](https://dev.to/snapbolt_win/how-to-read-qr-codes-extract-uncopyable-text-on-windows-1011-100-offline-zero-cloud-uploads-3kb5)
-- [How to Capture Disappearing Hover Menus & Create CleanShot-Style Screenshots/GIFs on Windows](https://dev.to/snapbolt_win/how-to-capture-disappearing-hover-menus-create-cleanshot-style-screenshotsgifs-on-windows-5g24)
 
 ---
 
@@ -75,36 +78,30 @@
   <img src="https://snapbolt.dev/assets/ogp.png?v=262" alt="SnapBolt 日本語公式バナー" width="840">
 </p>
 
-**SnapBolt（スナップボルト）** は、Windows 10 / 11 で毎日の手順書作成・バグ報告・開発業務を10倍速くするために設計された、**完全オフライン（外部送信ゼロ）・軽量ネイティブ設計** のオールインワン画面キャプチャ＆録画ユーティリティです（[**窓の杜 2度掲載（2026年10月23日号・10月29日号）**](https://forest.watch.impress.co.jp/docs/digest/2152375.html)）。
+**SnapBolt（スナップボルト）** は、Windows 10 / 11 で毎日の手順書作成・バグ報告・開発業務を10倍速くするために設計された、**完全オフライン（外部送信ゼロ）・軽量ネイティブ設計** のオールインワン画面キャプチャ＆録画ユーティリティです（[**窓の杜 3度掲載（2026年10月23日号・10月29日号・11月11日号）**](https://forest.watch.impress.co.jp/docs/digest/2155649.html) ／ [**Vector ソフトライブラリ公式収録**](https://www.vector.co.jp/soft/winnt/art/se529929.html)）。
 
-### ✨ 主な機能（v2.6.4 最新版 — 世界8言語ネイティブ対応！）
+### ✨ 主な機能（v2.6.5 最新版 — 世界8言語ネイティブ対応！）
 
-1. **🔒 1クリック自動モザイク（`Ctrl + Shift + M`）＆ 📏 境界自動検出スマートピクセル定規（`D` キー）【v2.6.4 NEW!】**
+1. **🔒 1クリック自動モザイク（`Ctrl + Shift + M`）＆ 📏 境界自動検出スマートピクセル定規（`D` キー）【v2.6.4 / v2.6.5 NEW!】**
    - **🔒 1クリック自動モザイク**：完全オフラインのWindows OCRと正規表現検出を組み合わせ、画面内のメールアドレス・電話番号・クレカ番号・IPアドレス・APIキー等を1クリックで自動検出して一括モザイク処理（再クリックで全数値も対象）。
    - **📏 スマートピクセル定規（`D`キー）**：余白をクリックするだけで上下左右のUI境界を自動検出してピクセル距離（`px`）を計測・描画。ドラッグでの自由測定にも対応。
    - **🖼️ プレビュー追従ドラッグ＆ドロップ貼り付け**：撮影後の通知トーストや履歴から、半透明プレビュー付きでSlack・Discord・Teams・ブラウザ・Word等へ直接ドラッグ＆ドロップ貼り付けが可能。
 2. **📜 縦長スクロールキャプチャ（`Ctrl + Shift + L` / 上部バー `📜 スクロール`）**
    - Webページやチャット画面、設定画面などの縦に長いウィンドウを自動スクロールしながら1枚の高精細画像へシームレス結合。左右の非スクロール固定メニュー分離や浮遊ボタンの残像自動除去にも対応しています。
-
-2. **🎯 ウィンドウ・UI要素の自動枠合わせ（オートスナップ）**
+3. **🎯 ウィンドウ・UI要素の自動枠合わせ（オートスナップ）**
    - カーソルを乗せるだけで対象ウィンドウに青い枠がピタッと自動吸着し、クリック1回で綺麗に切り抜けます。
    - **消えてしまうホバーメニュー・右クリックメニューの固定撮影**：`PrintScreen` キー、または上部バーの **「⏱️ 3秒後撮影」** でメニューを開いたまま丸ごと固定してキャプチャ可能です。
-
-3. **✏️ 3秒で赤枠・モザイク・連番を入れて、そのまま `Ctrl + V` で即貼り付け**
+4. **✏️ 3秒で赤枠・モザイク・連番を入れて、そのまま `Ctrl + V` で即貼り付け**
    - 撮影直後に軽量エディタが0.1秒で起動。モザイク・赤枠・矢印・連番バッジ・蛍光ペンを入れたら **「📋 コピー & 完了」**！
-   - **スマート履歴管理（v2.3.1改善）**：未編集のスクショは1件のみシンプルに保存され、注釈・トリミング・SNS背景などの編集を行った場合のみ自動的に **【元】画像と【編】画像** の両方を履歴に残します。
-
-4. **🎬 MP4 / GIF 画面録画スタジオ（区間カット・倍速編集つき）**
+   - **スマート履歴管理**：未編集のスクショは1件のみシンプルに保存され、注釈・トリミング・SNS背景などの編集を行った場合のみ自動的に **【元】画像と【編】画像** の両方を履歴に残します。
+5. **🎬 MP4 / GIF 画面録画スタジオ（区間カット・倍速編集つき）**
    - キャプチャ画面上部バーからワンタッチで録画モードへ切り替え。
    - 録画停止後は **専用カット＆倍速スタジオ** が開き、前後の不要区間カット・2倍速・字幕追加を行って、軽量なMP4または高画質GIFアニメーションとして即出力できます。
-
-5. **🔍 完全オフライン QRコード / バーコード読取 ＆ OCR文字認識**
+6. **🔍 完全オフライン QRコード / バーコード読取 ＆ OCR文字認識**
    - 画面上の選択できないエラーメッセージや画像内の文字、PC画面に表示された **QRコード・バーコード** をドラッグで囲むだけで、100%オフラインで瞬時にテキスト・URL化します。
-
-6. **🎨 1pxルーペ拡大鏡つき 画面カラーピッカー（`#HEX` / `RGB` 色スポイト）**
+7. **🎨 1pxルーペ拡大鏡つき 画面カラーピッカー（`#HEX` / `RGB` 色スポイト）**
    - キャプチャ中に `C` キー（または上部バーの「🎨 色スポイト」）で、カーソル先端1ピクセルのカラーコード（`#RRGGBB`）を即座にクリップボードへコピーします。
-
-7. **🎁 継続アンバサダー＆アフィリエイト特典（初期費用0円・審査不要・40%還元）**
+8. **🎁 継続アンバサダー＆アフィリエイト特典（初期費用0円・審査不要・40%還元）**
    - **紹介パートナー詳細・レビュアー様向けProキー無償進呈窓口**：[**https://snapbolt.dev/affiliate**](https://snapbolt.dev/affiliate)
    - **無料ユーザー**：友達3人紹介で **Pro永久ライセンス（¥500相当）が無料解禁**！
    - **継続紹介特典**：さらに **3人紹介ごとに「プレゼント用Pro永久キー」を1個自動発行**、紹介相手がProを購入すると **1件につきAmazonギフト券 ¥200分（売上の40%）** をアプリ内からそのまま申請・受取できます。
@@ -131,16 +128,16 @@
 
 Windows 10 / 11 (64-bit) 対応・追加ランタイム不要ですぐに使い始められます。
 
-- **🏪 Microsoft Store からワンクリック導入（推奨・電子署名済みで警告画面なし）**  
-  👉 **[Microsoft Store 公式ページを開く](https://apps.microsoft.com/detail/9MTBJHKWKM43?hl=ja-jp&gl=JP)** （または Windows ターミナルで `winget install 9MTBJHKWKM43`）
-  > Microsoft 公式の電子署名が付与された MSIX パッケージのため、ブラウザの警告や Windows SmartScreen の青い保護画面が一切出ず、自動アップデートにも対応しています。
+- **🏪 Microsoft Store / 公式署名済 0.8MB インストーラーでワンクリック導入（推奨・ログイン不要・警告画面なし）**  
+  👉 **[Microsoft Store 公式ページを開く](https://apps.microsoft.com/detail/9MTBJHKWKM43?hl=ja-jp&gl=JP)** ｜ **[⚡ Microsoft署名済 0.8MB Webインストーラー (.exe)](https://snapbolt.dev/store-installer)** （または `winget install 9MTBJHKWKM43`）
+  > Microsoft 公式の電子署名が付与されているため、Microsoftアカウントへのログイン不要・ブラウザ警告や Windows SmartScreen の青い保護画面ゼロで導入でき、自動アップデートにも対応しています。
 
 - **🌐 公式サイトからダウンロード（14日間Pro全機能特典つき）**  
   👉 **[日本語ページ](https://snapbolt.dev/r/8Y9PHK)** | **[English Page](https://snapbolt.dev/en/r/8Y9PHK)** | **[💎 Global Lifetime Pro ($14.99 USD on Gumroad)](https://poron1.gumroad.com/l/snapbolt)**
-  > 紹介コード **`8Y9PHK`** が自動適用され、通常7日間のPro全機能体験期間が **14日間** に延長されます（期間終了後も、基本のスクショ撮影・注釈・保存・10秒録画・色スポイトはずっと完全無料で使い続けられます）。
+  > 紹介コード **`8Y9PHK`** が自動適用され、通常7日間のPro全機能体験期間が **14日間** に延長されます（期間終了後も、基本のスクショ撮影・1秒モザイク・①②③連番・ピクセル定規・10秒録画・色スポイトはずっと完全無料で使い続けられます）。
 
 - **📦 GitHub Releases から直接ダウンロード**  
-  👉 **[Releases ページ](https://github.com/poron2356-a11y/SnapBolt/releases/latest)** からインストーラー版またはポータブルZIP版を入手できます。
+  👉 **[Releases ページ](https://github.com/poron2356-a11y/SnapBolt/releases/latest)** からオフライン用フルインストーラー版またはポータブルZIP版を入手できます。
 
 - **💻 Winget / Scoop でインストール**  
   ```powershell
@@ -163,25 +160,31 @@ Windows 10 / 11 (64-bit) 対応・追加ランタイム不要ですぐに使い�
 
 ## 📝 解説記事・リンク集
 
-- **🏆 窓の杜（Impress）掲載実績（2回掲載）**：
+- **🏆 窓の杜（Impress）掲載実績（3回掲載）**：
+  - [2026/11/11号（v2.6.4・1クリック個人情報自動モザイク＆ピクセル定規）](https://forest.watch.impress.co.jp/docs/digest/2155649.html)
   - [2026/10/29号（v2.4.0・Microsoft Store公式版）](https://forest.watch.impress.co.jp/docs/digest/2152375.html)
   - [2026/10/23号（初回リリース）](https://forest.watch.impress.co.jp/docs/digest/2150874.html)
+- **🇯🇵 Vector（ベクター ソフトライブラリ公式収録）**：[SnapBolt ダウンロードページ (SE529929)](https://www.vector.co.jp/soft/winnt/art/se529929.html)
 - **📰 活動者なび 紹介記事**：[Windows向けスクショツールSnapBolt公開、Pro機能は月額100円・買い切り500円](https://katsudousha.com/news-snapbolt-screenshot-tool-release/)
 - **🌐 公式サイト（14日間Pro招待リンク）**：[https://snapbolt.dev/r/8Y9PHK](https://snapbolt.dev/r/8Y9PHK)
 - **📘 Qiita 技術解説・活用記事**：
+  - [ChatGPTやSNSにスクショを貼る前に！Windows標準OCR（完全オフライン）で個人情報・APIキーを1クリック自動モザイクする機能をC# / WPFで個人開発した話](https://qiita.com/poron2356/items/c752f98072bebd28ea6e)
   - [【個人開発】「撮る・3秒でモザイク編集・そのままCtrl+Vで貼る」画面録画・オフラインOCR全部入りのWindowsスクショアプリ『SnapBolt』を作った](https://qiita.com/poron2356/items/779cb91e363719e4b075)
   - [WindowsでPC画面上のQRコードや選択できない文字を1秒で読み取る方法【スマホ不要・完全オフライン】](https://qiita.com/poron2356/items/ed890d5d49e8f544d01e)
   - [Windowsで「消えるホバーメニュー」をスクショして、3秒でSNS・記事向け(16:9)に整える方法](https://qiita.com/poron2356/items/b2b509c1802d1f8d1c32)
-- **📗 Zenn 技術解説記事**：[Windowsのスクショ・画面録画・OCRの不満を全部潰す超高速ツール「SnapBolt」を個人開発した話](https://zenn.dev/poron7055/articles/0fc6238deb247f)
+- **📗 Zenn 技術解説記事**：
+  - [Windows標準OCR（完全オフライン）でスクショの個人情報・APIキーを1クリック自動モザイクする機能をC# / WPFで実装した話](https://zenn.dev/poron7055/articles/1940bc8f40bd35)
+  - [Windowsのスクショ・画面録画・OCRの不満を全部潰す超高速ツール「SnapBolt」を個人開発した話](https://zenn.dev/poron7055/articles/0fc6238deb247f)
 - **📓 note 開発ストーリー・紹介記事**：
+  - [ChatGPTやSNSにスクショを貼る前の「個人情報モザイク」を1秒にしたくて、完全オフラインの自動検出機能を作った話](https://note.com/poron7055/n/na1942ab51c27)
   - [【個人開発0→1達成】コード知識ゼロからAIと作ったWindowsスクショアプリ『SnapBolt』が、窓の杜に2度掲載され初の有料購入者が出るまでの全記録](https://note.com/poron7055/n/nb527f458d0fa)
   - [毎日の「スクショ撮って編集して貼る」が面倒すぎたので、AIと一緒に全部入りの最強Windowsアプリ『SnapBolt』を自作して公開した話](https://note.com/poron7055/n/n2fd02eaeba36)
 - **🧭 SaaSHub (Officially Verified) & Product Hunt**：
   - [SnapBolt on SaaSHub — Officially Verified Alternatives & Comparisons](https://www.saashub.com/snapbolt-dev-alternatives)
   - [SnapBolt on Product Hunt](https://www.producthunt.com/products/snapbolt)
 - **🌐 DEV.to English Guides & Tutorials**：
+  - [How to Auto-Redact Emails, API Keys & PII in Screenshots Before Pasting to ChatGPT (100% Offline on Windows)](https://dev.to/snapbolt_win/how-to-auto-redact-emails-api-keys-pii-in-screenshots-before-pasting-to-chatgpt-100-offline-on-1p58)
+  - [How to Measure Exact Pixel Distances & UI Padding on Windows 11/10 with a Smart Edge-Detecting Ruler](https://dev.to/snapbolt_win/how-to-measure-exact-pixel-distances-ui-padding-on-windows-1110-with-a-smart-edge-detecting-ruler-5cgk)
   - [Windows 11 Snipping Tool Is Too Slow: Here's a 0.1s Alternative with Instant Blur, GIF Studio & Offline OCR](https://dev.to/snapbolt_win/windows-11-snipping-tool-is-too-slow-heres-a-01s-alternative-with-instant-blur-gif-studio--3i13)
   - [I built "CleanShot X for Windows" — Auto Window Snap, 1-Click Beautifier Frame, MP4/GIF Studio & 100% Offline QR/OCR](https://dev.to/snapbolt_win/i-built-cleanshot-x-for-windows-auto-window-snap-1-click-beautifier-frame-mp4gif-studio--15je)
-  - [How to Capture Disappearing Hover Menus & Create CleanShot-Style Screenshots/GIFs on Windows](https://dev.to/snapbolt_win/how-to-capture-disappearing-hover-menus-create-cleanshot-style-screenshotsgifs-on-windows-5g24)
-  - [How to Read QR Codes & Extract Uncopyable Text on Windows 10/11 (100% Offline, Zero Cloud Uploads)](https://dev.to/snapbolt_win/how-to-read-qr-codes-extract-uncopyable-text-on-windows-1011-100-offline-zero-cloud-uploads-3kb5)
 - **特定商取引法に基づく表記 / プライバシーポリシー**：[公式サイト表記](https://snapbolt.dev/legal)
