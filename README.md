@@ -18,7 +18,7 @@
   &nbsp;|&nbsp;
   ⚡ <a href="https://snapbolt.dev/store-installer"><b>Microsoft-Signed 0.8 MB Installer (.exe)</b></a>
   &nbsp;|&nbsp;
-  🔒 <a href="https://snapbolt.dev/en/redact"><b>Free Online Screenshot Redact Tool (Browser · Zero Upload)</b></a>
+  🔒 <a href="https://snapbolt.dev/en/tools"><b>9 Free Online Browser Tools (Sticker BG Remover, Grid Splitter, Stitch, Annotate &amp; Redact)</b></a>
   <br>
   🇯🇵 <a href="https://snapbolt.dev/r/8Y9PHK"><b>日本語</b></a> ·
   🌐 <a href="https://snapbolt.dev/en/r/8Y9PHK"><b>English</b></a> ·
