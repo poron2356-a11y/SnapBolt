@@ -78,6 +78,7 @@
 - [**Full-Page Scrolling Screenshot for Windows 11/10 (Browsers, Slack, Teams & Desktop Apps)**](https://snapbolt.dev/en/scrolling-screenshot-windows)
 
 ### 📚 English Engineering Deep-Dives (DEV.to)
+- [Windows 11 Win+Shift+S Is Slow & Auto-Saves Clutter: Building a 0.1s Win32 Hook Replacement with 1-Click Offline PII Redaction in C#/WPF](https://dev.to/snapbolt_win/windows-11-winshifts-is-slow-auto-saves-clutter-building-a-01s-win32-hook-replacement-with-5f5j)
 - [How to Auto-Redact Emails, API Keys & PII in Screenshots Before Pasting to ChatGPT (100% Offline on Windows)](https://dev.to/snapbolt_win/how-to-auto-redact-emails-api-keys-pii-in-screenshots-before-pasting-to-chatgpt-100-offline-on-1p58)
 - [How to Measure Exact Pixel Distances & UI Padding on Windows 11/10 with a Smart Edge-Detecting Ruler](https://dev.to/snapbolt_win/how-to-measure-exact-pixel-distances-ui-padding-on-windows-1110-with-a-smart-edge-detecting-ruler-5cgk)
 - [How to Take Full-Page Scrolling Screenshots of Any App on Windows 11/10 (Free, Native & 100% Offline)](https://dev.to/snapbolt_win/how-to-take-full-page-scrolling-screenshots-of-any-app-on-windows-1110-free-native-100-2b5k)
@@ -206,6 +207,7 @@ Windows 10 / 11 (64-bit) 対応・追加ランタイム不要ですぐに使い�
   - [SnapBolt on SaaSHub — Officially Verified Alternatives & Comparisons](https://www.saashub.com/snapbolt-dev-alternatives)
   - [SnapBolt on Product Hunt](https://www.producthunt.com/products/snapbolt)
 - **🌐 DEV.to English Guides & Tutorials**：
+  - [Windows 11 Win+Shift+S Is Slow & Auto-Saves Clutter: Building a 0.1s Win32 Hook Replacement with 1-Click Offline PII Redaction in C#/WPF](https://dev.to/snapbolt_win/windows-11-winshifts-is-slow-auto-saves-clutter-building-a-01s-win32-hook-replacement-with-5f5j)
   - [How to Auto-Redact Emails, API Keys & PII in Screenshots Before Pasting to ChatGPT (100% Offline on Windows)](https://dev.to/snapbolt_win/how-to-auto-redact-emails-api-keys-pii-in-screenshots-before-pasting-to-chatgpt-100-offline-on-1p58)
   - [How to Measure Exact Pixel Distances & UI Padding on Windows 11/10 with a Smart Edge-Detecting Ruler](https://dev.to/snapbolt_win/how-to-measure-exact-pixel-distances-ui-padding-on-windows-1110-with-a-smart-edge-detecting-ruler-5cgk)
   - [Windows 11 Snipping Tool Is Too Slow: Here's a 0.1s Alternative with Instant Blur, GIF Studio & Offline OCR](https://dev.to/snapbolt_win/windows-11-snipping-tool-is-too-slow-heres-a-01s-alternative-with-instant-blur-gif-studio--3i13)
