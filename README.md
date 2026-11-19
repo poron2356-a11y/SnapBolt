@@ -69,6 +69,14 @@
   - **Every 1 paid referral** = Earn **40% Creator Revenue Share** directly through our built-in Ambassador & Affiliate Program.
   - **Tech Bloggers / YouTubers / Creators**: Request a complimentary **Reviewer Lifetime Pro Key** anytime from the [Partner Page](https://snapbolt.dev/en/affiliate).
 
+### 🛠️ Windows 11 Workflow & Troubleshooting Guides
+- [**Fix `Win + Shift + S` Not Working, Freezing or Lagging on Windows 11 (0.1s Native Replacement)**](https://snapbolt.dev/en/win-shift-s-not-working-slow-windows-11)
+- [**How to Stop Windows 11 Snipping Tool Auto-Saving Every Screenshot (`Pictures\Screenshots` & OneDrive)**](https://snapbolt.dev/en/disable-snipping-tool-auto-save-windows-11)
+- [**Lightweight PowerToys Text Extractor, Screen Ruler & Color Picker Alternative (~20 MB Native)**](https://snapbolt.dev/en/powertoys-text-extractor-ruler-lightweight-alternative)
+- [**All-in-One QA Bug Report Screenshot, Step Badges & MP4/GIF Recorder for Windows**](https://snapbolt.dev/en/qa-bug-report-screenshot-screen-recorder-windows)
+- [**1-Click Offline Auto-Redact PII (Emails, Phone Numbers & API Keys) Before Pasting to ChatGPT**](https://snapbolt.dev/en/auto-redact-pii-screenshots)
+- [**Full-Page Scrolling Screenshot for Windows 11/10 (Browsers, Slack, Teams & Desktop Apps)**](https://snapbolt.dev/en/scrolling-screenshot-windows)
+
 ### 📚 English Engineering Deep-Dives (DEV.to)
 - [How to Auto-Redact Emails, API Keys & PII in Screenshots Before Pasting to ChatGPT (100% Offline on Windows)](https://dev.to/snapbolt_win/how-to-auto-redact-emails-api-keys-pii-in-screenshots-before-pasting-to-chatgpt-100-offline-on-1p58)
 - [How to Measure Exact Pixel Distances & UI Padding on Windows 11/10 with a Smart Edge-Detecting Ruler](https://dev.to/snapbolt_win/how-to-measure-exact-pixel-distances-ui-padding-on-windows-1110-with-a-smart-edge-detecting-ruler-5cgk)
@@ -173,12 +181,21 @@ Windows 10 / 11 (64-bit) 対応・追加ランタイム不要ですぐに使い�
 - **🇯🇵 Vector（ベクター ソフトライブラリ公式収録）**：[SnapBolt ダウンロードページ (SE529929)](https://www.vector.co.jp/soft/winnt/art/se529929.html)
 - **📰 活動者なび 紹介記事**：[Windows向けスクショツールSnapBolt公開、Pro機能は月額100円・買い切り500円](https://katsudousha.com/news-snapbolt-screenshot-tool-release/)
 - **🌐 公式サイト（14日間Pro招待リンク）**：[https://snapbolt.dev/r/8Y9PHK](https://snapbolt.dev/r/8Y9PHK)
+- **🛠️ Windows 11 スクショお悩み解決・業務効率化ガイド**：
+  - [Windows 11で `Win + Shift + S` が反応しない・遅い原因と0.1秒代替解決策](https://snapbolt.dev/ja/win-shift-s-not-working-slow)
+  - [Snipping Toolの「勝手な自動保存・OneDrive容量圧迫」をゼロにする方法](https://snapbolt.dev/ja/snipping-tool-disable-auto-save)
+  - [PowerToysが重いPC向け！OCR文字起こし・ピクセル定規・色スポイトの超軽量一体型代替](https://snapbolt.dev/ja/powertoys-alternative-lightweight-ocr-ruler)
+  - [QA・テスト・不具合報告を3倍速にする「連番①②③・自動モザイク・GIF録画」一体型ツール](https://snapbolt.dev/ja/qa-bug-report-screenshot-tool)
+  - [完全オフラインOCRによる1クリック個人情報・APIキー自動モザイク（`Ctrl+Shift+M`）](https://snapbolt.dev/ja/auto-mosaic-pii-redaction)
+  - [Windows 10/11 縦長スクロールキャプチャ（Web・チャット・デスクトップアプリ対応）](https://snapbolt.dev/ja/scrolling-screenshot-windows)
 - **📘 Qiita 技術解説・活用記事**：
+  - [Windows 11のWin+Shift+Sが遅い・勝手に自動保存される問題を解決したくて、0.1秒起動のWin32フック＆オフライン自動モザイク機能をC#/WPFで実装した話](https://qiita.com/poron2356/items/74a4c608c676d5e23546)
   - [ChatGPTやSNSにスクショを貼る前に！Windows標準OCR（完全オフライン）で個人情報・APIキーを1クリック自動モザイクする機能をC# / WPFで個人開発した話](https://qiita.com/poron2356/items/c752f98072bebd28ea6e)
   - [【個人開発】「撮る・3秒でモザイク編集・そのままCtrl+Vで貼る」画面録画・オフラインOCR全部入りのWindowsスクショアプリ『SnapBolt』を作った](https://qiita.com/poron2356/items/779cb91e363719e4b075)
   - [WindowsでPC画面上のQRコードや選択できない文字を1秒で読み取る方法【スマホ不要・完全オフライン】](https://qiita.com/poron2356/items/ed890d5d49e8f544d01e)
   - [Windowsで「消えるホバーメニュー」をスクショして、3秒でSNS・記事向け(16:9)に整える方法](https://qiita.com/poron2356/items/b2b509c1802d1f8d1c32)
 - **📗 Zenn 技術解説記事**：
+  - [Windows 11のWin+Shift+SをWin32低レベルフックで0.1秒化し、強制自動保存ゼロ＋オフラインPII自動モザイクを実現するC#/WPF設計](https://zenn.dev/poron7055/articles/8767495711476f)
   - [Windows標準OCR（完全オフライン）でスクショの個人情報・APIキーを1クリック自動モザイクする機能をC# / WPFで実装した話](https://zenn.dev/poron7055/articles/1940bc8f40bd35)
   - [Windowsのスクショ・画面録画・OCRの不満を全部潰す超高速ツール「SnapBolt」を個人開発した話](https://zenn.dev/poron7055/articles/0fc6238deb247f)
 - **📓 note 開発ストーリー・紹介記事**：
