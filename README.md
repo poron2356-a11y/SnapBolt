@@ -8,7 +8,7 @@
   <a href="https://apps.microsoft.com/detail/9MTBJHKWKM43"><img src="https://img.shields.io/badge/Microsoft_Store-Official_Certified_App-0078D4?style=for-the-badge&logo=microsoft" alt="Get it from Microsoft Store"></a>
   <a href="https://snapbolt.dev/store-installer"><img src="https://img.shields.io/badge/Signed_Web_Installer-0.8_MB_(.exe)-059669?style=for-the-badge&logo=windows" alt="Microsoft-Signed 0.8 MB Web Installer"></a>
   <a href="https://forest.watch.impress.co.jp/docs/digest/2155649.html"><img src="https://img.shields.io/badge/Featured_on-窓の杜_(Mado_no_Mori_x3)-10b981?style=for-the-badge" alt="Featured on 窓の杜 x3"></a>
-  <a href="https://github.com/poron2356-a11y/SnapBolt/releases/latest"><img src="https://img.shields.io/badge/Version-v2.6.9-3b82f6?style=for-the-badge" alt="Version v2.6.9"></a>
+  <a href="https://github.com/poron2356-a11y/SnapBolt/releases/latest"><img src="https://img.shields.io/badge/Version-v2.7.0-3b82f6?style=for-the-badge" alt="Version v2.7.0"></a>
   <a href="https://snapbolt.dev/en/r/8Y9PHK"><img src="https://img.shields.io/badge/Languages-8_Native_(JA·EN·繁·简·KO·DE·ES·PT)-8b5cf6?style=for-the-badge" alt="8 Languages"></a>
   <a href="https://snapbolt.dev/en/r/8Y9PHK"><img src="https://img.shields.io/badge/Platform-Windows_10_%2F_11_(x64)-0ea5e9?style=for-the-badge" alt="Platform Windows 10/11"></a>
 </p>
@@ -42,8 +42,8 @@
 
 **SnapBolt** is a native C# / WPF all-in-one screen capture & productivity utility for Windows 10 / 11 — designed to start in **0.1 seconds**, natively localized into **8 languages (`日本語`, `English`, `繁體中文`, `简体中文`, `한국어`, `Deutsch`, `Español`, `Português`)**, and engineered to run **100% offline** with zero cloud uploads.
 
-### ✨ Key Features (v2.6.9 Latest)
-1. **🔒 1-Click Offline Auto-Redact PII (`Ctrl + Shift + M`) & 📏 Smart Edge-Detecting Pixel Ruler (`D` Key) — NEW in v2.6.4 / v2.6.9!**
+### ✨ Key Features (v2.7.0 Latest)
+1. **🔒 1-Click Offline Auto-Redact PII (`Ctrl + Shift + M`) & 📏 Smart Edge-Detecting Pixel Ruler (`D` Key) — NEW in v2.6.4 / v2.7.0!**
    - **🔒 1-Click Auto-Redact PII**: Combines 100% offline Windows OCR with regex detection to automatically locate and pixelate emails, phone numbers, credit cards, IPs, JWT/API keys, and secrets in one click (click again to redact all numeric metrics).
    - **📏 Smart Pixel Ruler (`D` key)**: Click once between any UI elements to auto-detect edge boundaries and draw exact `px` dimensions, or drag to measure freely.
    - **🖼️ Floating Ghost Drag-and-Drop**: Drag the post-capture toast or history thumbnail directly into Slack, Discord, Teams, GitHub, or Docs with a live floating preview.
@@ -61,7 +61,7 @@
 7. **🎨 1px Magnifier Screen Color Picker (`C` key)**
    - Inspect exact pixel coordinates with a live magnifier loupe and copy `#RRGGBB` HEX codes in a single click.
 
-### 🎁 Ambassador & Affiliate Program (Built into the App — 40% Revenue Share!)
+### 🎁 Ambassador & Affiliate Program (Built into the App — ~30% Revenue Share!)
 - **Partner & Reviewer Details**: [**https://snapbolt.dev/en/affiliate**](https://snapbolt.dev/en/affiliate)
 - **Free Users**: Invite **3 friends** via your personal link (`https://snapbolt.dev/r/YOUR_CODE`) to unlock **Lifetime Pro for free ($0)**!
 - **Ongoing Rewards**:
@@ -95,9 +95,9 @@
 
 **SnapBolt（スナップボルト）** は、Windows 10 / 11 で毎日の手順書作成・バグ報告・開発業務を10倍速くするために設計された、**完全オフライン（外部送信ゼロ）・軽量ネイティブ設計** のオールインワン画面キャプチャ＆録画ユーティリティです（[**窓の杜 3度掲載（2026年10月23日号・10月29日号・11月11日号）**](https://forest.watch.impress.co.jp/docs/digest/2155649.html) ／ [**Vector ソフトライブラリ公式収録**](https://www.vector.co.jp/soft/winnt/art/se529929.html) ／ [**無料ブラウザモザイクWebツール**](https://snapbolt.dev/mosaic)）。
 
-### ✨ 主な機能（v2.6.9 最新版 — 世界8言語ネイティブ対応！）
+### ✨ 主な機能（v2.7.0 最新版 — 世界8言語ネイティブ対応！）
 
-1. **🔒 1クリック自動モザイク（`Ctrl + Shift + M`）＆ 📏 境界自動検出スマートピクセル定規（`D` キー）【v2.6.4 / v2.6.9 NEW!】**
+1. **🔒 1クリック自動モザイク（`Ctrl + Shift + M`）＆ 📏 境界自動検出スマートピクセル定規（`D` キー）【v2.6.4 / v2.7.0 NEW!】**
    - **🔒 1クリック自動モザイク**：完全オフラインのWindows OCRと正規表現検出を組み合わせ、画面内のメールアドレス・電話番号・クレカ番号・IPアドレス・APIキー等を1クリックで自動検出して一括モザイク処理（再クリックで全数値も対象）。
    - **📏 スマートピクセル定規（`D`キー）**：余白をクリックするだけで上下左右のUI境界を自動検出してピクセル距離（`px`）を計測・描画。ドラッグでの自由測定にも対応。
    - **🖼️ プレビュー追従ドラッグ＆ドロップ貼り付け**：撮影後の通知トーストや履歴から、半透明プレビュー付きでSlack・Discord・Teams・ブラウザ・Word等へ直接ドラッグ＆ドロップ貼り付けが可能。
@@ -116,10 +116,10 @@
    - 画面上の選択できないエラーメッセージや画像内の文字、PC画面に表示された **QRコード・バーコード** をドラッグで囲むだけで、100%オフラインで瞬時にテキスト・URL化します。
 7. **🎨 1pxルーペ拡大鏡つき 画面カラーピッカー（`#HEX` / `RGB` 色スポイト）**
    - キャプチャ中に `C` キー（または上部バーの「🎨 色スポイト」）で、カーソル先端1ピクセルのカラーコード（`#RRGGBB`）を即座にクリップボードへコピーします。
-8. **🎁 継続アンバサダー＆アフィリエイト特典（初期費用0円・審査不要・40%還元）**
+8. **🎁 継続アンバサダー＆アフィリエイト特典（初期費用0円・審査不要・約30%還元（1件300円））**
    - **紹介パートナー詳細・レビュアー様向けProキー無償進呈窓口**：[**https://snapbolt.dev/affiliate**](https://snapbolt.dev/affiliate)
-   - **無料ユーザー**：友達3人紹介で **Pro永久ライセンス（¥500相当）が無料解禁**！
-   - **継続紹介特典**：さらに **3人紹介ごとに「プレゼント用Pro永久キー」を1個自動発行**、紹介相手がProを購入すると **1件につきAmazonギフト券 ¥200分（売上の40%）** をアプリ内からそのまま申請・受取できます。
+   - **無料ユーザー**：友達3人紹介で **Pro永久ライセンス（¥980相当）が無料解禁**！
+   - **継続紹介特典**：さらに **3人紹介ごとに「プレゼント用Pro永久キー」を1個自動発行**、紹介相手がProを購入すると **1件につきAmazonギフト券 ¥300分（約30%還元）** をアプリ内からそのまま申請・受取できます。
 
 ---
 
@@ -147,9 +147,9 @@ Windows 10 / 11 (64-bit) 対応・追加ランタイム不要ですぐに使い�
   👉 **[Microsoft Store 公式ページを開く](https://apps.microsoft.com/detail/9MTBJHKWKM43?hl=ja-jp&gl=JP)** ｜ **[⚡ Microsoft署名済 0.8MB Webインストーラー (.exe)](https://snapbolt.dev/store-installer)** （または `winget install 9MTBJHKWKM43`）
   > Microsoft 公式の電子署名が付与されているため、Microsoftアカウントへのログイン不要・ブラウザ警告や Windows SmartScreen の青い保護画面ゼロで導入でき、自動アップデートにも対応しています。
 
-- **🌐 公式サイトからダウンロード（14日間Pro全機能特典つき）**  
+- **🌐 公式サイトからダウンロード（期限なしPro6回無料特典つき）**  
   👉 **[日本語ページ](https://snapbolt.dev/r/8Y9PHK)** | **[English Page](https://snapbolt.dev/en/r/8Y9PHK)** | **[💎 Global Lifetime Pro ($14.99 USD on Gumroad)](https://poron1.gumroad.com/l/snapbolt)**
-  > 紹介コード **`8Y9PHK`** が自動適用され、通常7日間のPro全機能体験期間が **14日間** に延長されます（期間終了後も、基本のスクショ撮影・1秒モザイク・①②③連番・ピクセル定規・10秒録画・色スポイトはずっと完全無料で使い続けられます）。
+  > 紹介コード **`8Y9PHK`** が自動適用され、初回3回の期限なしPro体験枠が **合計6回** に倍増します（基本のスクショ撮影・1秒手動モザイク・①②③連番・ピクセル定規・5秒録画・色スポイトはずっと完全無料）。
 
 - **📦 GitHub Releases から直接ダウンロード**  
   👉 **[Releases ページ](https://github.com/poron2356-a11y/SnapBolt/releases/latest)** からオフライン用フルインストーラー版またはポータブルZIP版を入手できます。
@@ -180,8 +180,8 @@ Windows 10 / 11 (64-bit) 対応・追加ランタイム不要ですぐに使い�
   - [2026/10/29号（v2.4.0・Microsoft Store公式版）](https://forest.watch.impress.co.jp/docs/digest/2152375.html)
   - [2026/10/23号（初回リリース）](https://forest.watch.impress.co.jp/docs/digest/2150874.html)
 - **🇯🇵 Vector（ベクター ソフトライブラリ公式収録）**：[SnapBolt ダウンロードページ (SE529929)](https://www.vector.co.jp/soft/winnt/art/se529929.html)
-- **📰 活動者なび 紹介記事**：[Windows向けスクショツールSnapBolt公開、Pro機能は月額100円・買い切り500円](https://katsudousha.com/news-snapbolt-screenshot-tool-release/)
-- **🌐 公式サイト（14日間Pro招待リンク）**：[https://snapbolt.dev/r/8Y9PHK](https://snapbolt.dev/r/8Y9PHK)
+- **📰 活動者なび 紹介記事**：[Windows向けスクショツールSnapBolt公開、Pro機能は月額100円・買い切り980円](https://katsudousha.com/news-snapbolt-screenshot-tool-release/)
+- **🌐 公式サイト（Pro6回無料招待リンク）**：[https://snapbolt.dev/r/8Y9PHK](https://snapbolt.dev/r/8Y9PHK)
 - **🛠️ Windows 11 スクショお悩み解決・業務効率化ガイド**：
   - [Windows 11で `Win + Shift + S` が反応しない・遅い原因と0.1秒代替解決策](https://snapbolt.dev/ja/win-shift-s-not-working-slow)
   - [Snipping Toolの「勝手な自動保存・OneDrive容量圧迫」をゼロにする方法](https://snapbolt.dev/ja/snipping-tool-disable-auto-save)
